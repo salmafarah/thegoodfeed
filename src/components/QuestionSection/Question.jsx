@@ -1,14 +1,18 @@
 import React, {Component} from 'react';
 import './Question.css';
-import LottieAnxitey from '../Lottie/AnxietyLottie';
+import AnxiteyLottie from '../Lottie/AnxietyLottie';
+import HappyLottie from '../Lottie/HappyLottie'; 
 
 class QuestionSection extends Component {
     render(){
         return(
             <div className="Wrapper">
                 <div className="Question">
-                    <h1 style={{display:"block"}}>Question</h1>
-                     <LottieAnxitey/>
+                    <h1>Question</h1>
+                    <div className="Lottie">
+                     <AnxiteyLottie/>
+                     <HappyLottie/>
+                     </div>
                 </div>
             </div>
         );

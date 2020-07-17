@@ -2,9 +2,7 @@
     border: 5px solid red;
     height: 300px;
     width: 900px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    text-align: center;
 }
 
 .Wrapper{
@@ -15,12 +13,9 @@
     border: 10px solid green;
   }
   
-.Block{
-    display: block;
-    width: 100px;
-    height: 100px;
-    padding: 5px;
-    border: 1px solid blue;    
-    background-color: yellow;
-
+.Lottie{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
 }

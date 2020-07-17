@@ -1,14 +1,18 @@
 import React, {Component} from 'react';
-import './Question.css'
+import './Question.css';
+import LottieAnxitey from '../Lottie/AnxietyLottie';
 
-class Footer extends Component {
+class QuestionSection extends Component {
     render(){
         return(
-            <div className="Question">
-                <h1>Footer</h1>
+            <div className="Wrapper">
+                <div className="Question">
+                    <h1 style={{display:"block"}}>Question</h1>
+                     <LottieAnxitey/>
+                </div>
             </div>
         );
     }
 }
 
-export default Footer;
+export default QuestionSection;

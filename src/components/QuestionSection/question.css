@@ -1,0 +1,26 @@
+.Question{
+    border: 5px solid red;
+    height: 300px;
+    width: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    border: 10px solid green;
+  }
+  
+.Block{
+    display: block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;    
+    background-color: yellow;
+
+}

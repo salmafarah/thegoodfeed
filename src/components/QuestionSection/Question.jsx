@@ -6,7 +6,7 @@ import HappyLottie from '../Lottie/HappyLottie';
 class QuestionSection extends Component {
     render(){
         return(
-            <div className="Wrapper">
+            <div className="Wrap">
                 <div className="Question">
                     <h1>Question</h1>
                     <div className="Lottie">

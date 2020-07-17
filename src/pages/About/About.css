@@ -1,0 +1,14 @@
+.About{
+    border: 5px solid red;
+    height: 300px;
+    width: 900px;
+    text-align: center;
+}
+
+.Wrappers{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    border: 10px solid green;
+  }

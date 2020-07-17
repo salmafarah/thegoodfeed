@@ -11,6 +11,7 @@
     "react-dom": "^16.13.1",
     "react-lottie": "^1.2.3",
     "react-lottie-player": "^1.0.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1"
   },
   "scripts": {

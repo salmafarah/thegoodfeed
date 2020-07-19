@@ -5,11 +5,12 @@ import './Nav.css'
 class Nav extends Component {
     render(){
         return(
-            <div className="Nav">
-                <h1>Header</h1>
-               <Link to="/about"> <h1>About</h1> </Link>
-               <Link to="/"> Home</Link>
-            </div>
+            <div className="navbar Navbar-light color shadow"> 
+                <Link to="/"> Home</Link> 
+                <ul className="navbar color justify-content-right">
+                <Link to="/about" className="Navbar-link">About</Link> 
+                </ul>
+        </div> 
         );
     }
 }

@@ -8,7 +8,7 @@ class Fear extends Component {
             <div className=" container align-items-center Margin">
               <div className="row mb-5">
                       <div className="col sm-4 ">
-                        <div className="card ml-4 img-fluid">
+                        <div className="card img-fluid">
                           <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top"/>
                         </div>
                       </div>
@@ -23,14 +23,14 @@ class Fear extends Component {
                         </div>
                       </div>
                       <div className="col sm-4">
-                        <div className="card mr-4">
+                        <div className="card">
                         <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top"/>
                         </div>
                       </div>
                   </div>
                   <div className="row mb-5">
                       <div className="col sm-4 ">
-                        <div className="card ml-4 img-fluid">
+                        <div className="card img-fluid">
                           <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top"/>
                         </div>
                       </div>
@@ -45,14 +45,14 @@ class Fear extends Component {
                         </div>
                       </div>
                       <div className="col sm-4">
-                        <div className="card mr-4">
+                        <div className="card">
                         <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top"/>
                         </div>
                       </div>
                   </div>
                   <div className="row mb-5">
                       <div className="col sm-4 ">
-                        <div className="card ml-4 img-fluid">
+                        <div className="card img-fluid">
                           <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top"/>
                         </div>
                       </div>
@@ -67,7 +67,7 @@ class Fear extends Component {
                         </div>
                       </div>
                       <div className="col sm-4">
-                        <div className="card mr-4">
+                        <div className="card">
                         <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top"/>
                         </div>
                       </div>

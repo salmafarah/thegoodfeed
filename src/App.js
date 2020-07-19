@@ -2,10 +2,15 @@ import React, {Component} from 'react';
 import './App.css';
 import { BrowserRouter, Route } from 'react-router-dom';
 import Nav from './components/Nav/Nav'; 
-import Footer from './components/Footer/Footer'
-import Question from './components/QuestionSection/Question'
-import About from './pages/About/About'
-
+import Footer from './components/Footer/Footer';
+import Question from './components/QuestionSection/Question';
+import About from './pages/About/About';
+import Happy from './components/Happy/Happy';
+import Angry from './components/Anger/Anger';
+import Sad from './components/Sad/Sad';
+import Meh from './components/Meh/Meh';
+import Fear from './components/Fear/Fear';
+import Anxiety from './components/Anxiety/Anxiety';
 
 class App extends Component {
   render(){
@@ -23,6 +28,42 @@ class App extends Component {
               path="/about"
                 render={ props => (
                   <About/>
+                )}
+              />
+              <Route
+              path="/happy"
+                render={ props => (
+                  <Happy/>
+                )}
+              />
+              <Route
+              path="/sad"
+                render={ props => (
+                  <Sad/>
+                )}
+              />
+            <Route
+              path="/fear"
+                render={ props => (
+                  <Fear/>
+                )}
+              />
+            <Route
+              path="/meh"
+                render={ props => (
+                  <Meh/>
+                )}
+              />
+            <Route
+              path="/angry"
+                render={ props => (
+                  <Angry/>
+                )}
+              />
+              <Route
+              path="/anxitey"
+                render={ props => (
+                  <Anxiety/>
                 )}
               />
           <Footer/>

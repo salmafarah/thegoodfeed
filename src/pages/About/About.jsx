@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import "./About.css"
 
-class Nav extends Component {
+class About extends Component {
     render(){
         return(
             <div className="Wrappers">           
@@ -13,4 +13,4 @@ class Nav extends Component {
     }
 }
 
-export default Nav;
+export default About;

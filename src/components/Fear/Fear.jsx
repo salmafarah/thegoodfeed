@@ -65,12 +65,12 @@ class Fear extends Component {
                   <div className="row mb-4">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                          <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top rounded"/>
+                          <img src="https://imgur.com/Y0ET91g.jpg" alt="..." className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top rounded"/>
+                        <Iframe url="https://www.youtube.com/embed/lyn1DZYzBGs" className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
@@ -83,7 +83,7 @@ class Fear extends Component {
                   <div className="row mb-4">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                          <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top rounded"/>
+                        <Iframe url="https://www.youtube.com/embed/wiBFY73iAsI" className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
@@ -93,7 +93,7 @@ class Fear extends Component {
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top rounded"/>
+                        <Iframe url="https://www.youtube.com/embed/ffXKVfUcQE8" className="card-img-top rounded"/>
                         </div>
                       </div>
                   </div>
@@ -102,17 +102,17 @@ class Fear extends Component {
                   <div className="row mb-4">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                          <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top rounded"/>
+                        <Iframe url="https://www.youtube.com/embed/lgwGWlzFtfs" className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top rounded"/>
+                        <img src="https://imgur.com/Qb2Mjqb.jpg" alt="..." className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top rounded"/>
+                        <img src="https://imgur.com/TqKDWcb.jpg" alt="..." className="card-img-top rounded"/>
                         </div>
                       </div>
                   </div>
@@ -126,12 +126,12 @@ class Fear extends Component {
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top rounded"/>
+                        <img src="https://imgur.com/11iMw3H.jpg" alt="..." className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top rounded"/>
+                        <img src="https://imgur.com/1DudSDk.jpg" alt="..." className="card-img-top rounded"/>
                         </div>
                       </div>
                   </div>
@@ -140,7 +140,7 @@ class Fear extends Component {
                   <div className="row mb-4">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                          <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top rounded"/>
+                          <img src="https://imgur.com/Ci5pfBw.jpg" alt="..." className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
@@ -150,7 +150,7 @@ class Fear extends Component {
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top rounded"/>
+                        <Iframe url="https://www.youtube.com/embed/tbnzAVRZ9Xc" className="card-img-top rounded"/>
                         </div>
                       </div>
                   </div>
@@ -159,17 +159,17 @@ class Fear extends Component {
                   <div className="row mb-4">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                          <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top rounded"/>
+                          <img src="https://imgur.com/abOMisX.jpg" alt="..." className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top rounded"/>
+                        <Iframe url="https://www.youtube.com/embed/dww3Oo8ropA" className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top rounded"/>
+                        <img src="https://imgur.com/6xhd5Bo.jpg" alt="..." className="card-img-top rounded"/>
                         </div>
                       </div>
                   </div>
@@ -178,12 +178,12 @@ class Fear extends Component {
                   <div className="row mb-4">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                          <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top  rounded"/>
+                        <Iframe url="https://www.youtube.com/embed/PgQ3sW0BWfI" className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/ff8a15Q.jpg" alt="..." className="card-img-top rounded"/>
+                        <img src="https://imgur.com/zKrfeAl.jpg" alt="..." className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">

@@ -10,9 +10,9 @@ class Nav extends Component {
                 <img src="https://imgur.com/y9fJ7XI.jpg" alt="By Lisa Fotios from Pexels" className="Sizeimg"/>
                 </Link> 
                 <div className="Aboutnav">
-                <Link to="/about" className="Nounderline"><button className="Textline Text btn Nounderline"> About</button></Link>   
+                <Link to="/about" className="Nounderline"><button className="Textline Text btn Nounderline "> About</button></Link>
                 </div>
-            </div> 
+            </div>
         );
     }
 }

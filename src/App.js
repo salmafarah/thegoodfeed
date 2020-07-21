@@ -3,7 +3,7 @@ import './App.css';
 import { BrowserRouter, Route } from 'react-router-dom';
 import Nav from './components/Nav/Nav'; 
 import Footer from './components/Footer/Footer';
-import Question from './components/QuestionSection/Question';
+import HomePage from './components/HomePage/HomePage';
 import About from './pages/About/About';
 import Happy from './components/Happy/Happy';
 import Angry from './components/Anger/Anger';
@@ -21,7 +21,7 @@ class App extends Component {
             <Route
               exact path="/"
                 render={ props => (
-                  <Question/>
+                  <HomePage/>
                 )}
               />
               <Route

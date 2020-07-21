@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import './Question.css';
+import './question.css';
 import AnxiteyLottie from '../Lottie/AnxietyLottie';
 import HappyLottie from '../Lottie/HappyLottie'; 
 import AngryLottie from '../Lottie/AngryLottie';

@@ -5,12 +5,14 @@ import './Nav.css'
 class Nav extends Component {
     render(){
         return(
-            <div className="navbar Navbar-light color shadow"> 
-                <Link to="/"> Home</Link> 
-                <ul className="navbar color justify-content-right">
-                <Link to="/about" className="Navbar-link">About</Link> 
-                </ul>
-        </div> 
+            <div className="navbar Padding"> 
+                <Link to="/">
+                <img src="https://imgur.com/y9fJ7XI.jpg" alt="By Lisa Fotios from Pexels" className="Sizeimg"/>
+                </Link> 
+                <div className="Aboutnav">
+                <Link to="/about" className="Nounderline"><button className="Textline Text btn Nounderline"> About</button></Link>   
+                </div>
+            </div> 
         );
     }
 }

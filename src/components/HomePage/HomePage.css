@@ -1,21 +1,41 @@
-.Question{
-    border: 5px solid red;
-    height: 300px;
-    width: 900px;
-    text-align: center;
-}
-
-.Wrap{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    border: 10px solid green;
-  }
-  
 .Lottie{
     display: flex;
     align-items: center;
     justify-content: center;
     margin-top: 5%;
+}
+
+.MoveSide {
+    display: inline-block;
+}
+
+.HomePage{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+.Green {
+    border: 5px solid green;
+}
+
+.Wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    position: relative;
+}
+
+.HomePageimg{
+    width: 35%;
+    height: 80%
+}
+
+.Wrap img {
+    position: absolute;
+    left: 0;
+    bottom: 0;
 }

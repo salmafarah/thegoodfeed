@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-
 import './HomePage.css';
 import AnxiteyLottie from '../Lottie/AnxietyLottie';
 import HappyLottie from '../Lottie/HappyLottie'; 

@@ -10,6 +10,7 @@ class Happy extends Component {
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <a href="https://www.amazon.com/Its-All-Your-Head-Happiness/dp/0060760001" 
+                             target="_blank"
                                rel="noopener noreferrer">
                             <img src="https://i.imgur.com/mR2EYgB.png" 
                              alt="...." 
@@ -21,7 +22,7 @@ class Happy extends Component {
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <img src="https://i.imgur.com/4bUU6FM.png" 
-                            alt="..." 
+                            alt="...git pi" 
                             className="card-img-top rounded"/>
                         </div>
                       </div>
@@ -29,6 +30,7 @@ class Happy extends Component {
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <a href="https://gretchenrubin.com/books/the-happiness-project/about-the-book/" 
+                             target="_blank"
                                rel="noopener noreferrer">
                                 <img src="https://i.imgur.com/YinHXT2.png" 
                                  alt="...." 
@@ -43,6 +45,7 @@ class Happy extends Component {
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <a href="https://yaqeeninstitute.org/yasienmohamed/the-idea-of-happiness-in-the-quran/" 
+                             target="_blank"
                                rel="noopener noreferrer">
                                 <img src="https://i.imgur.com/6IBvfJ5.png" 
                                 alt="....." 
@@ -62,6 +65,7 @@ class Happy extends Component {
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <a href="https://www.nytimes.com/guides/well/how-to-be-happy" 
+                             target="_blank"
                                rel="noopener noreferrer">
                                 <img src="https://i.imgur.com/wTY5Z5n.png" 
                                  alt="...." 
@@ -76,6 +80,7 @@ class Happy extends Component {
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <a href="https://gretchenrubin.com/books/better-than-before/about-the-book/" 
+                             target="_blank"
                                rel="noopener noreferrer">
                                 <img src="https://i.imgur.com/CxIUawf.png" 
                                 alt="....." 
@@ -87,6 +92,7 @@ class Happy extends Component {
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <a href="https://www.psychologytoday.com/us/blog/click-here-happiness/201801/how-be-happy-23-ways-be-happier" 
+                             target="_blank"
                             rel="noopener noreferrer">
                                 <img src="https://i.imgur.com/pGZCUO5.png" 
                                 alt="....." 
@@ -98,6 +104,7 @@ class Happy extends Component {
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <a href="https://gretchenrubin.com/books/the-four-tendencies/intro/" 
+                            target="_blank"
                             rel="noopener noreferrer">
                                 <img src="https://i.imgur.com/R8jdHzx.png" 
                                 alt="....." 
@@ -135,7 +142,8 @@ class Happy extends Component {
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <a href="https://greatergood.berkeley.edu/podcasts/series/the_science_of_happiness" 
-                            rel="noopener noreferrer">
+                             target="_blank"
+                             rel="noopener noreferrer">
                                 <img src="https://i.imgur.com/nfbhiQh.png" 
                                 alt="....." 
                                 className="card-img-top rounded Big"/>
@@ -207,6 +215,7 @@ class Happy extends Component {
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <a href="https://www.whyislam.org/spiritual-journeys/happiness/" 
+                             target="_blank"
                              rel="noopener noreferrer">
                             <img src="https://i.imgur.com/x1NTioL.png" 
                             alt="....." 
@@ -228,7 +237,8 @@ class Happy extends Component {
                   <div className="col xl-4">
                     <div className="card img-fluid border border-white rounded">
                     <a href="https://yaqeeninstitute.org/omar-edward-moad/the-technology-of-happiness/" 
-                    rel="noopener noreferrer">
+                     target="_blank"
+                     rel="noopener noreferrer">
                         <img src="https://i.imgur.com/Lx14WLo.png" 
                         alt="....." 
                         className="card-img-top rounded Big"/>
@@ -247,6 +257,7 @@ class Happy extends Component {
                       <div className="col xl-4">
                       <div className="card img-fluid border border-white rounded">
                             <a href="https://gretchenrubin.com/podcasts/" 
+                            target="_blank"
                              rel="noopener noreferrer">
                             <img src="https://i.imgur.com/IhoG7WQ.jpg" 
                             alt="....." 
@@ -269,7 +280,8 @@ class Happy extends Component {
 
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <a href="https://www.abebooks.com/Happiness-New-Approach-Life-Want-Lyubomirsky/30700043475/bd?cm_mmc=ggl-_-US_Shopp_Trade-_-used-_-naa&gclid=EAIaIQobChMIrJmm76_g6gIVLR-tBh2MZgB1EAQYAiABEgJSSvD_BwE" 
+                            <a href="https://www.abebooks.com/Happiness-New-Approach-Life-Want-Lyubomirsky/30700043475/bd?cm_mmc=ggl-_-US_Shopp_Trade-_-used-_-naa&gclid=EAIaIQobChMIrJmm76_g6gIVLR-tBh2MZgB1EAQYAiABEgJSSvD_BwE"
+                             target="_blank" 
                              rel="noopener noreferrer">
                             <img src="https://i.imgur.com/wcBpyhZ.png" 
                             alt="....." 
@@ -292,6 +304,7 @@ class Happy extends Component {
                   <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <a href="https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713" 
+                             target="_blank"
                              rel="noopener noreferrer">
                             <img src="https://i.imgur.com/Oltaumx.png" 
                             alt="....." 

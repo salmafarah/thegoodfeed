@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import Iframe from 'react-iframe';
 
 
-class Anger extends Component {
+class Happy extends Component {
     render(){
         return(
             <div className="container align-items-center mt-5">
@@ -321,4 +321,4 @@ class Anger extends Component {
     }
 }
 
-export default Anger;
+export default Happy;

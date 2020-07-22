@@ -1,0 +1,11 @@
+.card-img-top {
+    height: 20vw;
+    width: 100%;
+    object-fit: cover;
+   
+}
+
+.Big:hover {
+    transform: scale(1.1);
+   }
+

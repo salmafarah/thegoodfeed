@@ -1,25 +1,25 @@
 import React, {Component} from 'react';
-import '../EmotionCSS.css';
+import './Fear.css';
 import Iframe from 'react-iframe'
 
 class Fear extends Component {
     render(){
         return(
             <div className="container align-items-center mt-5">
-              <div className="row mb-4">
-                      <div className="col xl-4">
+              <div className="row justify-content-centre mb-4">
+                      <div className="col-sm-4 col-md-4">
                         <div className="card img-fluid border border-white rounded Big">
                         <a href="https://productivemuslim.com/3-powerful-tips-to-overcome-fear/" target="_blank" rel="noopener noreferrer">
-                          <img src="https://imgur.com/xrVd1He.jpg" alt="..." className="card-img-top rounded"/>
+                          <img src="https://imgur.com/xrVd1He.jpg" alt="..." className="card-img-top img-fluid rounded"/>
                         </a>
                         </div>
                       </div>
-                      <div className="col xl-4">
+                      <div className=" col-sm-4 col-md-4">
                         <div className="card img-fluid border border-white rounded">
                         <Iframe url="https://www.youtube.com/embed//KlUMrzwmbyo" className="card-img-top rounded"/>
                         </div>
                       </div>
-                      <div className="col xl-4">
+                      <div className="col-sm-12 col-md-4">
                         <div className="card img-fluid border border-white rounded">
                           <img src="https://imgur.com/Tp9bkYW.jpg" alt="..." className="card-img-top rounded"/>
                         </div>

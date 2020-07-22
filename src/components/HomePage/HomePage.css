@@ -16,16 +16,11 @@
 }
 
 
-
-.Green {
-    border: 5px solid green;
-}
-
 .Wrap {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 80vh;
+    height: 100vh;
     position: relative;
 }
 
@@ -38,4 +33,36 @@
     position: absolute;
     left: 0;
     bottom: 0;
+}
+
+.Move1 {
+    position: absolute;
+    right: 19%;
+    top: 15%;
+}
+
+.Move2 {
+    position: absolute;
+    right: 19%;
+    top: 44%;
+}
+
+.Move3 {
+    position: absolute;
+    right: 19%;
+    top: 72%;
+}
+
+.MoveText {
+    position: absolute;
+    right: 10%;
+    top: 0;
+    font-size: 400%; 
+    font-weight: 900;
+    color: black;
+}
+
+.HomepageText {
+    font-size: 200%;
+    font-weight: 900;
 }

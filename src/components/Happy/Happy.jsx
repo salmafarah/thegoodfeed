@@ -21,7 +21,7 @@ class Happy extends Component {
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <img src="https://i.imgur.com/4bUU6FM.png" 
-                            alt="Image" 
+                            alt="..." 
                             className="card-img-top rounded"/>
                         </div>
                       </div>

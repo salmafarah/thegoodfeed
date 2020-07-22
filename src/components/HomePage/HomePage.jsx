@@ -15,7 +15,9 @@ class QuestionSection extends Component {
     render(){
         return(
             <div className="Wrap align-items-center">
-              <img src="https://imgur.com/KuysHg5.jpg" alt="Phone img" className="HomePageimg"/>
+              <img src="https://imgur.com/dswkpii.jpg" alt="Phone img" className="HomePageimg"/>
+              <p className="TagLine1"> Curating a more postive</p>
+              <p className="TagLine2"> social media feed</p>
             <p className="MoveText"> How are you feeling?</p>
             <div className="row HomePage Move1">
               <div className="col-sm-6">

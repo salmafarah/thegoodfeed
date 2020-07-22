@@ -11,7 +11,7 @@ const Animation = () => {
               loop
               animationData={lottieJson}
               play
-              style={{ width: 170, height: 170}}
+              style={{ width: 135, height: 135}}
             /> 
         </div>
     )

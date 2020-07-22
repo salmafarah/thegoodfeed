@@ -25,8 +25,7 @@
 }
 
 .HomePageimg{
-    width: 35%;
-    height: 80%
+    width: 40%;
 }
 
 .Wrap img {
@@ -35,21 +34,39 @@
     bottom: 0;
 }
 
+.TagLine1 {
+    position: absolute;
+    left: 4%;
+    top: 10%;
+    font-size: 300%; 
+    font-weight: 900;
+    color: black;
+}
+
+.TagLine2 {
+    position: absolute;
+    left: 10%;
+    top: 18%;
+    font-size: 300%; 
+    font-weight: 900;
+    color: black;
+}
+
 .Move1 {
     position: absolute;
-    right: 19%;
+    right: 15%;
     top: 15%;
 }
 
 .Move2 {
     position: absolute;
-    right: 19%;
-    top: 44%;
+    right: 15%;
+    top: 45%;
 }
 
 .Move3 {
     position: absolute;
-    right: 19%;
+    right: 15%;
     top: 72%;
 }
 
@@ -57,7 +74,7 @@
     position: absolute;
     right: 10%;
     top: 0;
-    font-size: 400%; 
+    font-size: 300%; 
     font-weight: 900;
     color: black;
 }

@@ -17,7 +17,7 @@ class Fear extends Component {
                       </div>
                       <div className="col-12  col-sm-12 col-mb-4 col-lg-4  mb-4">
                       <div className="card border border-white rounded">
-                        <Iframe url="https://www.youtube.com/embed/KlUMrzwmbyo" className="rounded Video card-img-top img-fluid"/>
+                        <Iframe url="https://www.youtube.com/embed/KlUMrzwmbyo" className="rounded card-img-top img-fluid"/>
                       </div>
                       </div>
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 mb-4">

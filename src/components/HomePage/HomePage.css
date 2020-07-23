@@ -1,19 +1,21 @@
-.Lottie{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 5%;
+.Border {
+     border: 10px solid red
 }
 
-.MoveSide {
-    display: inline-block;
+
+
+.EmotionBox {
+    position: absolute;
+    right: 8%;
+    top: 2%;
+    width: 35%;
+    border-radius: 10px;
+   display: flex;
+   justify-content: center;
+   align-content: center;
+   background-color: #daf3fe;
 }
 
-.HomePage{
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-}
 
 
 .Wrap {
@@ -22,15 +24,18 @@
     justify-content: center;
     height: 100vh;
     position: relative;
+    background-image: url("https://imgur.com/xWgfN8C.jpg");
+    background-position: center;
+   background-size: cover;
 }
 
 .HomePageimg{
-    width: 40%;
+   max-height: 65%;
 }
 
 .Wrap img {
     position: absolute;
-    left: 0;
+    left: 2%;
     bottom: 0;
 }
 
@@ -38,42 +43,23 @@
     position: absolute;
     left: 4%;
     top: 10%;
-    font-size: 300%; 
+    font-size: 350%; 
     font-weight: 900;
     color: black;
 }
 
 .TagLine2 {
     position: absolute;
-    left: 10%;
+    left: 4.2%;
     top: 18%;
-    font-size: 300%; 
+    font-size: 350%; 
     font-weight: 900;
     color: black;
 }
 
-.Move1 {
-    position: absolute;
-    right: 15%;
-    top: 15%;
-}
 
-.Move2 {
-    position: absolute;
-    right: 15%;
-    top: 45%;
-}
 
-.Move3 {
-    position: absolute;
-    right: 15%;
-    top: 72%;
-}
-
-.MoveText {
-    position: absolute;
-    right: 10%;
-    top: 0;
+.QuestionText {
     font-size: 300%; 
     font-weight: 900;
     color: black;
@@ -83,3 +69,8 @@
     font-size: 200%;
     font-weight: 900;
 }
+
+.shadow{
+    color: yellow;
+}
+

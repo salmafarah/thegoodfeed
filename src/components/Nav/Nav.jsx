@@ -5,7 +5,7 @@ import './Nav.css'
 class Nav extends Component {
     render(){
         return(
-            <div className="navbar Padding"> 
+            <div className="navbar Padding BackImg"> 
                 <Link to="/">
                 <img src="https://imgur.com/y9fJ7XI.jpg" alt="By Lisa Fotios from Pexels" className="Sizeimg"/>
                 </Link> 

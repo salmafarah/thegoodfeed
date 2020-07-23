@@ -1,3 +1,4 @@
+
 .Padding {
     padding: 0;
 }
@@ -35,3 +36,7 @@
 
 }
 
+.BackImg {
+    background-image: url("https://imgur.com/nea7E6e.jpg");
+    background-size: cover;
+}

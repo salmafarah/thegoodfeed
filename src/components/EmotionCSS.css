@@ -9,13 +9,14 @@
     transform: scale(1.1);
    }
 
+
    @media (max-width: 991px) { 
 
     .card-img-top{
         height:  50vw;;
         width: 100%;
         object-fit: cover;
-        /* border: 10px solid  green; */
+        border: 10px solid  green;
     }
  }
 
@@ -25,7 +26,7 @@
         height:  55vw;;
         width: 100%;
         object-fit: cover;
-        /* border: 10px solid  blue; */
+        border: 10px solid  blue;
     }
  }
 
@@ -36,7 +37,7 @@
         height: 70vw;;
         width: 100%;
         object-fit: cover;
-        /* border: 10px solid yellow; */
+        border: 10px solid yellow;
     }
  }
 
@@ -46,7 +47,7 @@
             height: 50vw;;
             width: 100%; 
             object-fit: cover;
-            /* border: 10px solid blueviolet */
+            border: 10px solid blueviolet
         }
 
     }
@@ -57,6 +58,6 @@
             height: 67vw;
             width: 100%;
             object-fit: cover;
-            /* border: 10px solid grey; */
+            border: 10px solid grey;
         }
      } 

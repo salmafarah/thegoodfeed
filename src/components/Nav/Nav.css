@@ -40,3 +40,65 @@
     background-image: url("https://imgur.com/nea7E6e.jpg");
     background-size: cover;
 }
+
+
+ @media (max-width: 991px) { 
+
+    .Sizeimg {
+        width: 27rem;
+    }
+   
+    .Textline {
+        border-bottom: 7px solid #C6FFFF;
+        padding-bottom: 2px;
+    }
+ }
+
+ @media (max-width: 930px) { 
+
+    .Sizeimg {
+        width: 25rem;
+    }
+   
+    .Textline {
+        border-bottom: 7px solid #C6FFFF;
+        padding-bottom: 2px;
+    }
+ }
+
+
+ @media (max-width: 768px) { 
+
+    .Sizeimg {
+        width: 30rem;
+    }
+   
+    .Textline {
+        border-bottom: 7px solid #C6FFFF;
+        padding-bottom: 2px;
+    }
+ }
+
+    @media (max-width: 767px) { 
+        
+        .Sizeimg {
+            width: 25rem;
+        }
+       
+        .Textline {
+            border-bottom: 7px solid #C6FFFF;
+            padding-bottom: 2px;
+        }
+
+    } 
+
+    @media screen and (max-width: 707px) { 
+        .Sizeimg {
+            width: 20rem;
+        }
+       
+        .Textline {
+            border-bottom: 7px solid #C6FFFF;
+            padding-bottom: 2px;
+        }
+     } 

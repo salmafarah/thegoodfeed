@@ -5,9 +5,9 @@ import './Nav.css'
 class Nav extends Component {
     render(){
         return(
-            <div className="navbar Padding BackImg"> 
+            <div className=" navbar Padding BackImg"> 
                 <Link to="/">
-                <img src="https://imgur.com/y9fJ7XI.jpg" alt="By Lisa Fotios from Pexels" className="Sizeimg"/>
+                <img src="https://imgur.com/y9fJ7XI.jpg" alt="logo" className="Sizeimg"/>
                 </Link> 
                 <div className="Aboutnav">
                 <Link to="/about" className="Nounderline"><button className="Textline Text btn Nounderline "> About</button></Link>

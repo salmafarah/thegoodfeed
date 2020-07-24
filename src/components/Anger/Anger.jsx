@@ -51,13 +51,13 @@ class Anger extends Component {
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <a href="https://www.goodreads.com/book/show/272724.Purification_of_the_Heart" target="_blank" rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/muZXSzy.jpg" alt="Purification of the Heart book cover" className="card-img-top rounded Big"/>
+                                <img src="https://i.imgur.com/zIKJxrN.jpg" alt="Purification of the Heart book cover" className="card-img-top rounded Big"/>
                             </a>
                         </div>
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/zEYREFo.jpg" alt="woman meditating surrounded by plants" className="card-img-top rounded"/>
+                            <img src="https://i.imgur.com/SdxlutK.jpg" alt="woman meditating surrounded by plants" className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
@@ -72,12 +72,12 @@ class Anger extends Component {
                   <div className="row mb-4">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/7Ic454f.jpg" alt="Sufficient for us is Allah, and He is the best Disposer of Affairs" className="card-img-top rounded"/>
+                            <img src="https://i.imgur.com/Z0Tpr29.jpg" alt="Sufficient for us is Allah, and He is the best Disposer of Affairs" className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/o1wYSek.jpg" alt="Oh Allah remove anger from my heart." className="card-img-top rounded"/>
+                            <img src="https://i.imgur.com/3zT8SVI.png" alt="Oh Allah remove anger from my heart." className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
@@ -98,13 +98,13 @@ class Anger extends Component {
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/1wUXXop.jpg" alt="Allah in Arabic calligraphy painting" className="card-img-top rounded"/>
+                            <img src="https://i.imgur.com/o1mRDtE.jpg" alt="Allah in Arabic calligraphy painting" className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <a href="https://www.al-islam.org/articles/diseases-soul-anger" target="_blank" rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/qoYUaDQ.jpg" alt="Diseases of the Soul: Anger article" className="card-img-top rounded Big"/>
+                                <img src="https://i.imgur.com/cCYPqEK.jpg" alt="Diseases of the Soul: Anger article" className="card-img-top rounded Big"/>
                             </a>
                         </div>
                       </div>
@@ -131,13 +131,13 @@ class Anger extends Component {
                   <div className="row mb-4">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/gF1cUCM.jpg" alt="Call upon me, I will respond to you..." className="card-img-top rounded"/>
+                            <img src="https://i.imgur.com/Kd2A5Ik.png" alt="Call upon me, I will respond to you..." className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <a href="https://www.goodreads.com/book/show/410046.How_To_Control_Your_Anger_Before_It_Controls_You" target="_blank" rel="noopener noreferrer">
-                                <img src="https://imgur.com/cpU2MJd.jpg" alt="How to Control Your Anger Before it Controls You book cover" className="card-img-top rounded Big"/>
+                                <img src="https://i.imgur.com/7sSe4ya.jpg" alt="How to Control Your Anger Before it Controls You book cover" className="card-img-top rounded Big"/>
                             </a>
                         </div>
                       </div>
@@ -154,12 +154,12 @@ class Anger extends Component {
                   <div className="row mb-4">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/wxWmoCu.jpg" alt="To be calm is the highest achievement of the self, Zen proverb" className="card-img-top rounded"/>
+                            <img src="https://i.imgur.com/hpa5qSM.png" alt="To be calm is the highest achievement of the self, Zen proverb" className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/J1EEujp.jpg" alt="hold firmly to the rope of Allah, Qur'an 3:103" className="card-img-top rounded"/>
+                            <img src="https://i.imgur.com/CoVNIEn.png" alt="hold firmly to the rope of Allah, Qur'an 3:103" className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
@@ -180,12 +180,12 @@ class Anger extends Component {
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/GJ5Gv1V.jpg" alt="and be patient over what befalls you, Al-Qur'an 31:17" className="card-img-top rounded"/>
+                            <img src="https://i.imgur.com/4LMokvO.jpg" alt="and be patient over what befalls you, Al-Qur'an 31:17" className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/PdHXNWL.jpg" alt="And seek help in patient and prayer, Al-Baqara-45" className="card-img-top rounded"/>
+                            <img src="https://i.imgur.com/7KRzouJ.png" alt="And seek help in patient and prayer, Al-Baqara-45" className="card-img-top rounded"/>
                         </div>
                       </div>
                   </div>
@@ -199,13 +199,13 @@ class Anger extends Component {
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/XFR2A4T.jpg" 
+                            <img src="https://i.imgur.com/c8QBW10.png"
                                 alt="Dua to remove anger and stubborness: We (Allah) said O fire! Be you coolness and safety for Ibrahim (Abraham)! (Quran 21:69)" className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/HvrYYou.jpg" 
+                            <img src="https://i.imgur.com/qwugLXV.png"
                                 alt="4-7-8 breathing exercise: inhale through nose for 4 seconds; hold breath for 7 seconds; exhale slowly for 8 seconds; repeat 3 more times" className="card-img-top rounded"/>
                         </div>
                       </div>
@@ -220,7 +220,7 @@ class Anger extends Component {
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/RdS51hD.jpg" alt="inhale exhale" className="card-img-top rounded"/>
+                            <img src="https://i.imgur.com/c3nsPDM.png" alt="inhale exhale" className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
@@ -236,7 +236,7 @@ class Anger extends Component {
                   <div className="row mb-4">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/3D7mXMb.jpg" alt="man meditating with his cat next to him" className="card-img-top"/>
+                            <img src="https://i.imgur.com/75iVTqy.jpg" alt="man meditating with his cat next to him" className="card-img-top"/>
                         </div>
                       </div>
                       <div className="col xl-4">

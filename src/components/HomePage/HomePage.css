@@ -14,7 +14,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 110vh;
     position: relative;
     background-image: url("https://imgur.com/xWgfN8C.jpg");
     background-position: center;
@@ -22,7 +22,7 @@
 }
 
 .HomePageimg{
-   max-height: 70%;
+   max-height: 77%;
 }
 
 .Wrap img {
@@ -60,13 +60,9 @@
     font-weight: 900;
 }
 
-.shadow{
-    color: yellow;
-}
 
 
-
- @media screen and (max-width: 999px) { 
+ @media screen and (max-width: 992px) { 
     .Wrap {
         display: flex;
         align-items: center;
@@ -75,7 +71,7 @@
         background-position: center;
         background-repeat: repeat;
        position: relative;
-       height: 100vh;
+       height: 110vh;
     }
 
     .EmotionBox {
@@ -120,7 +116,7 @@
 }
 
 .HomePageimg{
-    max-height: 65%;
+    max-height: 80%;
  }
 
  .Wrap img {
@@ -133,10 +129,6 @@
 
 
  @media screen and (max-width: 9px) { 
-    .Wrap{
-        border: 10px solid blue
-    }
-
     .QuestionText {
         font-size: 250%; 
         font-weight: 900;
@@ -175,6 +167,9 @@
         justify-content: center;
         top:7%; 
     }
+    .HomePageimg{
+        max-height: 80%;
+     }
  }
 
 
@@ -187,7 +182,7 @@
         background-position: center;
         background-repeat: repeat;
        position: relative;
-       height: 100vh;
+       height: 110vh;
     }
 
     .EmotionBox {
@@ -231,7 +226,7 @@
 }
 
 .HomePageimg{
-    max-height: 65%;
+    max-height: 75%;
  }
 
  .Wrap img {
@@ -254,7 +249,7 @@
                 background-position: center;
                 background-repeat: repeat;
                position: relative;
-               height: 100vh;
+               height: 110vh;
             }
         
             .EmotionBox {
@@ -298,7 +293,7 @@
         }
         
         .HomePageimg{
-            max-height: 65%;
+            max-height: 75%;
          }
         
          .Wrap img {
@@ -317,7 +312,7 @@
             justify-content: center;
             background-image: url("https://imgur.com/xWgfN8C.jpg");
             position: relative;
-            height: 100vh;
+            height: 110vh;
         }
     
         .EmotionBox {
@@ -360,7 +355,7 @@
     }
     
     .HomePageimg{
-        max-height: 50%;
+        max-height: 70%;
      }
     
      .Wrap img {

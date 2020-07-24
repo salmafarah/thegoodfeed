@@ -1,10 +1,51 @@
 import React, {Component} from 'react';
 import '../EmotionCSS.css';
-import Iframe from 'react-iframe'
+import Iframe from 'react-iframe';
+import { Link } from 'react-router-dom';
 
 class Sad extends Component {
     render(){
         return(
+          <div class="container">
+            <div class="emojiNavBar">
+              <div class="emoji">
+                <Link to="/anxiety" style={{ textDecoration: 'none' }}>
+                  <img src="https://imgur.com/cDXx3RL.jpg" alt="anxietyEmoji" class="emojiImg" />
+                  <p>Anxious</p>
+                </Link>
+              </div>
+              <div class="emoji">
+                <Link to="/happy" style={{ textDecoration: 'none' }}>
+                  <img src="https://imgur.com/a19PgPn.jpg" alt="happyEmoji" class="emojiImg" />
+                  <p>Happy</p>
+                </Link>
+              </div>
+              <div class="emoji">
+                <Link to="/angry" style={{ textDecoration: 'none' }}>
+                  <img src="https://imgur.com/Wm7bH2r.jpg" alt="angryEmoji" class="emojiImg" />
+                  <p>Angry</p>
+                </Link>
+              </div>
+              <div class="emoji selectedEmoji">
+                <Link to="/sad" style={{ textDecoration: 'none' }}>
+                  <img src="https://imgur.com/4bTQhis.jpg" alt="sadEmoji" class="emojiImg" />
+                  <p>Sad</p>
+                </Link>
+              </div>
+              <div class="emoji">
+                <Link to="/fear" style={{ textDecoration: 'none' }}>
+                  <img src="https://imgur.com/BQtaQJm.jpg" alt="fearEmoji" class="emojiImg" />
+                  <p>Fear</p>
+                </Link>
+              </div>
+              <div class="emoji">
+                <Link to="/meh" style={{ textDecoration: 'none' }}>
+                  <img src="https://imgur.com/QQV4kCY.jpg" alt="mehEmoji" class="emojiImg" />
+                  <p>Meh</p>
+                </Link>
+              </div>
+            </div>
+
             <div className="container align-items-center mt-5">
               <div className="row mb-4">
                       <div className="col xl-4">
@@ -170,7 +211,7 @@ class Sad extends Component {
                   <div className="row mb-4">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/Xns1Gi1.jpg" alt="..." className="card-img-top rounded"/>
+                        <img src="https://imgur.com/HrCLIzz.jpg" alt="..." className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
@@ -180,7 +221,7 @@ class Sad extends Component {
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/KIX0Txk.jpg" alt="..." className="card-img-top rounded"/>
+                        <img src="https://imgur.com/HqYRmzN.jpg" alt="..." className="card-img-top rounded"/>
                         </div>
                       </div>
                   </div>
@@ -195,7 +236,7 @@ class Sad extends Component {
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/x5i9UTH.jpg" alt="..." className="card-img-top rounded"/>
+                        <img src="https://imgur.com/ZBZrPr3.jpg" alt="..." className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
@@ -206,6 +247,7 @@ class Sad extends Component {
                       </div>
                   </div>
                 </div>
+              </div>
           
             
         );

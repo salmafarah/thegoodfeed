@@ -1,10 +1,51 @@
 import React, {Component} from 'react';
 import Iframe from 'react-iframe';
+import { Link } from 'react-router-dom';
 
 
 class Happy extends Component {
     render(){
         return(
+          <div class="container">
+            <div class="emojiNavBar">
+              <div class="emoji">
+                <Link to="/anxiety" style={{ textDecoration: 'none' }}>
+                  <img src="https://imgur.com/cDXx3RL.jpg" alt="anxietyEmoji" class="emojiImg" />
+                  <p>Anxious</p>
+                </Link>
+              </div>
+              <div class="emoji selectedEmoji">
+                <Link to="/happy" style={{ textDecoration: 'none' }}>
+                  <img src="https://imgur.com/a19PgPn.jpg" alt="happyEmoji" class="emojiImg" />
+                  <p>Happy</p>
+                </Link>
+              </div>
+              <div class="emoji">
+                <Link to="/angry" style={{ textDecoration: 'none' }}>
+                  <img src="https://imgur.com/Wm7bH2r.jpg" alt="angryEmoji" class="emojiImg" />
+                  <p>Angry</p>
+                </Link>
+              </div>
+              <div class="emoji">
+                <Link to="/sad" style={{ textDecoration: 'none' }}>
+                  <img src="https://imgur.com/4bTQhis.jpg" alt="sadEmoji" class="emojiImg" />
+                  <p>Sad</p>
+                </Link>
+              </div>
+              <div class="emoji">
+                <Link to="/fear" style={{ textDecoration: 'none' }}>
+                  <img src="https://imgur.com/BQtaQJm.jpg" alt="fearEmoji" class="emojiImg" />
+                  <p>Fear</p>
+                </Link>
+              </div>
+              <div class="emoji">
+                <Link to="/meh" style={{ textDecoration: 'none' }}>
+                  <img src="https://imgur.com/QQV4kCY.jpg" alt="mehEmoji" class="emojiImg" />
+                  <p>Meh</p>
+                </Link>
+              </div>
+            </div>
+
             <div className="container align-items-center mt-5">
               <div className="row mb-4">
                       <div className="col xl-4">
@@ -330,6 +371,7 @@ class Happy extends Component {
                       </div>
                   </div>
                 </div>
+              </div>
         );
     }
 }

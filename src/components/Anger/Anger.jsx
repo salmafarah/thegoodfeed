@@ -57,7 +57,7 @@ class Anger extends Component {
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/SdxlutK.jpg" alt="woman meditating surrounded by plants" className="card-img-top rounded"/>
+                            <img src="https://i.imgur.com/UB2wt2y.jpg" alt="woman meditating surrounded by plants" className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
@@ -72,12 +72,12 @@ class Anger extends Component {
                   <div className="row mb-4">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/Z0Tpr29.jpg" alt="Sufficient for us is Allah, and He is the best Disposer of Affairs" className="card-img-top rounded"/>
+                            <img src="https://i.imgur.com/BXgd5sT.jpg" alt="Sufficient for us is Allah, and He is the best Disposer of Affairs" className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/3zT8SVI.png" alt="Oh Allah remove anger from my heart." className="card-img-top rounded"/>
+                            <img src="https://i.imgur.com/q5zPtHV.png" alt="Oh Allah remove anger from my heart." className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
@@ -131,7 +131,7 @@ class Anger extends Component {
                   <div className="row mb-4">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/Kd2A5Ik.png" alt="Call upon me, I will respond to you..." className="card-img-top rounded"/>
+                            <img src="https://i.imgur.com/znR4t38.png" alt="Call upon me, I will respond to you..." className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
@@ -154,7 +154,7 @@ class Anger extends Component {
                   <div className="row mb-4">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/hpa5qSM.png" alt="To be calm is the highest achievement of the self, Zen proverb" className="card-img-top rounded"/>
+                            <img src="https://i.imgur.com/gl5ZtvD.png" alt="To be calm is the highest achievement of the self, Zen proverb" className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
@@ -180,7 +180,7 @@ class Anger extends Component {
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/4LMokvO.jpg" alt="and be patient over what befalls you, Al-Qur'an 31:17" className="card-img-top rounded"/>
+                            <img src="https://i.imgur.com/wPWkJox.jpg" alt="and be patient over what befalls you, Al-Qur'an 31:17" className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
@@ -220,7 +220,7 @@ class Anger extends Component {
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/c3nsPDM.png" alt="inhale exhale" className="card-img-top rounded"/>
+                            <img src="https://i.imgur.com/bHz9cIX.png" alt="inhale exhale" className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
@@ -236,7 +236,7 @@ class Anger extends Component {
                   <div className="row mb-4">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/75iVTqy.jpg" alt="man meditating with his cat next to him" className="card-img-top"/>
+                            <img src="https://i.imgur.com/RYHUwN9.jpg" alt="man meditating with his cat next to him" className="card-img-top"/>
                         </div>
                       </div>
                       <div className="col xl-4">

@@ -61,7 +61,7 @@ class App extends Component {
                 )}
               />
               <Route
-              path="/anxitey"
+              path="/anxiety"
                 render={ props => (
                   <Anxiety/>
                 )}

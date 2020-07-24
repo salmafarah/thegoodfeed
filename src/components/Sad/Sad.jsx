@@ -170,7 +170,7 @@ class Sad extends Component {
                   <div className="row mb-4">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/Xns1Gi1.jpg" alt="..." className="card-img-top rounded"/>
+                        <img src="https://imgur.com/HrCLIzz.jpg" alt="..." className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">
@@ -180,7 +180,7 @@ class Sad extends Component {
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/KIX0Txk.jpg" alt="..." className="card-img-top rounded"/>
+                        <img src="https://imgur.com/HqYRmzN.jpg" alt="..." className="card-img-top rounded"/>
                         </div>
                       </div>
                   </div>
@@ -195,7 +195,7 @@ class Sad extends Component {
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/x5i9UTH.jpg" alt="..." className="card-img-top rounded"/>
+                        <img src="https://imgur.com/ZBZrPr3.jpg" alt="..." className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">

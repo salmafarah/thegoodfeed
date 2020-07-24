@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import './Fear.css';
+import '../EmotionCSS.css';
 import Iframe from 'react-iframe'
 
 class Fear extends Component {

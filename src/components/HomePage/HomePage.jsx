@@ -25,38 +25,37 @@ class QuestionSection extends Component {
                <div className="row  text-center">
                   <div className="col-sm-12">
                   <p className="text-center mt-3 QuestionText"> How are you feeling?</p>
-                
                   </div>
-                  </div>
+                </div>
 
                 <div className="row justify-content-center">
-                  <div className="col-md-4 mr-4">
+                  <div className=" col-4 col-md-4 mr-4 EmotionCol">
                    <Link to='/anxiety'><AnxiteyLottie/></Link>
                     <p className="HomepageText"> Anxious</p>
                   </div>
-                  <div className="col-md-4 mt-2">
+                  <div className="col-4 col-md-4 mt-2 EmotionCol">
                   <Link to='/happy'> <HappyLottie/></Link>
                   <p className="HomepageText">  Happy</p>
                   </div>
                   </div>
 
                   <div className="row justify-content-center">
-                  <div className="col-md-4 mr-4">
+                  <div className=" col-4 col-md-4 mr-4 EmotionCol">
                   <Link to='/angry'> <AngryLottie/></Link>
                     <p className="HomepageText mt-2"> Angry</p>
                   </div>
-                  <div className="col-md-4">
+                  <div className=" col-4 col-md-4 EmotionCol">
                   <Link to='/sad'> <SadLottie/></Link>
                   <p className="HomepageText mt-2"> Sad</p>
                   </div>
                   </div>
 
                   <div className="row justify-content-center">
-                  <div className="col-md-4 mr-4">
+                  <div className=" col-4 col-md-4 mr-4 EmotionCol">
                   <Link to='/fear'> <FearLottie/> </Link>
                     <p className="HomepageText mt-2"> Fearful</p>
                   </div>
-                  <div className="col-md-4">
+                  <div className=" col-4 col-md-4 EmotionCol">
                   <Link to='/meh'> <MehLottie/></Link>
                   <p className="HomepageText mt-2"> Meh</p>
                   </div>

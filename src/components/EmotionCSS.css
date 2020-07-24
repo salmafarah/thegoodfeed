@@ -2,10 +2,96 @@
     height: 20vw;
     width: 100%;
     object-fit: cover;
-   
 }
 
 .Big:hover {
     transform: scale(1.1);
-   }
+}
 
+.emojiNavBar {
+    text-align: center;
+}
+
+.emoji {
+    display: inline-block;
+    margin: 0.75vw;
+}
+
+.emoji p {
+    text-decoration: none;
+    color: black;
+}
+
+.selectedEmoji {
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+@keyframes bounce {
+    0%, 20%, 60%, 100% {
+      -webkit-transform: translateY(0);
+      transform: translateY(0);
+    }
+    40% {
+      -webkit-transform: translateY(-20px);
+      transform: translateY(-20px);
+    }
+    80% {
+      -webkit-transform: translateY(-10px);
+      transform: translateY(-10px);
+    }
+  }
+
+.emojiImg:hover {
+    animation: bounce 1s;
+}
+   @media (max-width: 991px) { 
+
+    .card-img-top{
+        height:  50vw;;
+        width: 100%;
+        object-fit: cover;
+        /* border: 10px solid  green; */
+    }
+ }
+
+ @media (max-width: 930px) { 
+
+    .card-img-top{
+        height:  55vw;;
+        width: 100%;
+        object-fit: cover;
+        /* border: 10px solid  blue; */
+    }
+ }
+
+
+ @media (max-width: 768px) { 
+
+    .card-img-top{
+        height: 70vw;;
+        width: 100%;
+        object-fit: cover;
+        /* border: 10px solid yellow; */
+    }
+ }
+
+    @media (max-width: 767px) { 
+        
+        .card-img-top{
+            height: 50vw;;
+            width: 100%; 
+            object-fit: cover;
+            /* border: 10px solid blueviolet */
+        }
+    }
+
+    @media (max-width: 707px) { 
+
+        .card-img-top{
+            height: 67vw;
+            width: 100%;
+            object-fit: cover;
+            /* border: 10px solid grey; */
+        }
+     } 

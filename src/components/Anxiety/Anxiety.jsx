@@ -199,7 +199,7 @@ class Anxiety extends Component {
                       </div>
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
-                        <Iframe url="https://www.youtube.com/watch?v=MB5IX-np5fE" className="card-img-top rounded"/>
+                        <Iframe url="https://www.youtube.com/embed/MB5IX-np5fE" className="card-img-top rounded"/>
                         </div>
                       </div>
                       <div className="col xl-4">

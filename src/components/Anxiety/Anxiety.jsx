@@ -47,129 +47,129 @@ class Anxiety extends Component {
           </div>
 
             <div className="container align-items-center mt-5">
-              <div className="row mb-4">
-                      <div className="col xl-4">
-                        <div className="card img-fluid border border-white rounded">
+              <div className="row">
+                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 Big mb-4">
+                        <div className="card border border-white rounded">
                         <a href="https://www.goodreads.com/book/show/35834423-free-your-mind" target="_blank" rel="noopener noreferrer">    
-                        <img src="https://imgur.com/8cGmeM4.jpg></iframe>" alt="..." className="card-img-top rounded Big"/></a>
+                        <img src="https://imgur.com/8cGmeM4.jpg></iframe>" alt="..." className="rounded card-img-top img-fluid Big"/></a>
                         </div>
                       </div>
-                      <div className="col xl-4">
-                        <div className="card img-fluid border border-white rounded">
-                        <Iframe url="https://youtube.com/embed/PUwAIx8h2kw" className="card-img-top rounded"/>
+                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
+                        <div className="card border border-white rounded">
+                        <Iframe url="https://youtube.com/embed/PUwAIx8h2kw" className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
-                      <div className="col xl-4">
-                        <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/alBffXm.jpg" alt="..." className="card-img-top rounded"/>
+                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
+                        <div className="card border border-white rounded">
+                        <img src="https://imgur.com/alBffXm.jpg" alt="..." className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
                   </div>
 
-                  <div className="row mb-4">
-                      <div className="col xl-4">
-                        <div className="card img-fluid border border-white rounded">
+                  <div className="row">
+                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 Big mb-4">
+                        <div className="card border border-white rounded">
                         <a href="https://www.goodreads.com/book/show/16154383-islam-s-treatment-for-anxiety-and-worry" target="_blank" rel="noopener noreferrer"> 
-                        <img src="https://imgur.com/ZWTf9mt.jpg" alt="..." className="card-img-top rounded Big"/></a>
+                        <img src="https://imgur.com/ZWTf9mt.jpg" alt="..." className="rounded card-img-top img-fluid Big"/></a>
                         </div>
                       </div>
-                      <div className="col xl-4">
-                        <div className="card img-fluid border border-white rounded">
+                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 Big mb-4">
+                        <div className="card border border-white rounded">
                         <a href="https://www.soundvision.com/article/25-ways-to-deal-with-stress-and-anxiety" target="_blank" rel="noopener noreferrer">   
-                        <img src="https://imgur.com/U3Ufy39.jpg" alt="..." className="card-img-top rounded Big"/></a>
+                        <img src="https://imgur.com/U3Ufy39.jpg" alt="..." className="rounded card-img-top img-fluid Big"/></a>
                         </div>
                       </div>
-                    <div className="col xl-4">
-                        <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/KWuMEw9.jpg" alt="..." className="card-img-top rounded"/>
+                    <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
+                        <div className="card border border-white rounded">
+                        <img src="https://imgur.com/KWuMEw9.jpg" alt="..." className="rounded card-img-top img-fluid"/>
                       
                         </div>
                       </div>
                     </div>
 
 
-                  <div className="row mb-4">
-                      <div className="col xl-4">
-                        <div className="card img-fluid border border-white rounded">
+                  <div className="row">
+                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 Big mb-4">
+                        <div className="card border border-white rounded">
                         <a href="https://www.goodreads.com/book/show/28231714-adult-coloring-book-designs" target="_blank" rel="noopener noreferrer">       
-                        <img src="https://imgur.com/vYoQeMF.jpg" alt="..." className="card-img-top rounded Big"/></a>
+                        <img src="https://imgur.com/vYoQeMF.jpg" alt="..." className="rounded card-img-top img-fluid Big"/></a>
                         </div>
                       </div>
-                      <div className="col xl-4">
-                        <div className="card img-fluid border border-white rounded">
+                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 Big mb-4">
+                        <div className="card border border-white rounded">
                         <a href="https://calmer-you.com/category/podcast/" target="_blank" rel="noopener noreferrer">   
-                        <img src="https://imgur.com/NPzW7jH.jpg" alt="..." className="card-img-top rounded Big"/></a>
+                        <img src="https://imgur.com/NPzW7jH.jpg" alt="..." className="rounded card-img-top img-fluid Big"/></a>
                         </div>
                       </div>
-                      <div className="col xl-4">
-                        <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/31grm9a.jpg" alt="..." className="card-img-top rounded"/>
+                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
+                        <div className="card border border-white rounded">
+                        <img src="https://imgur.com/31grm9a.jpg" alt="..." className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
                   </div>
 
-                  <div className="row mb-4">
-                      <div className="col xl-4">
-                        <div className="card img-fluid border border-white rounded">
+                  <div className="row">
+                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 Big mb-4">
+                        <div className="card border border-white rounded">
                         <a href="https://www.goodreads.com/book/show/27264160-fortress-of-the-muslim" target="_blank" rel="noopener noreferrer">  
-                        <img src="https://imgur.com/GfI3cW4.jpg" alt="..." className="card-img-top rounded Big"/></a>
+                        <img src="https://imgur.com/GfI3cW4.jpg" alt="..." className="rounded card-img-top img-fluid Big"/></a>
                         </div>
                       </div>
-                      <div className="col xl-4">
-                        <div className="card img-fluid border border-white rounded">
-                        <Iframe url="https://www.youtube.com/embed/QHkXvPq2pQE" className="card-img-top rounded"/>
+                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
+                        <div className="card border border-white rounded">
+                        <Iframe url="https://www.youtube.com/embed/QHkXvPq2pQE" className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
-                      <div className="col xl-4">
-                        <div className="card img-fluid border border-white rounded"> 
-                        <img src="https://imgur.com/2jDasp1.jpg" alt="..." className="card-img-top rounded"/>
+                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
+                        <div className="card border border-white rounded"> 
+                        <img src="https://imgur.com/2jDasp1.jpg" alt="..." className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
                     </div>
 
-                  <div className="row mb-4">
-                      <div className="col xl-4">
-                        <div className="card img-fluid border border-white rounded">
+                  <div className="row">
+                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 Big mb-4">
+                        <div className="card border border-white rounded">
                         <a href="https://www.goodreads.com/review/show/1611640069" target="_blank" rel="noopener noreferrer"> 
-                        <img src="https://imgur.com/qll0MC4.jpg" alt="..." className="card-img-top rounded Big"/></a>
+                        <img src="https://imgur.com/qll0MC4.jpg" alt="..." className="rounded card-img-top img-fluid Big"/></a>
                         </div>
                       </div>
-                      <div className="col xl-4">
-                        <div className="card img-fluid border border-white rounded">
+                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 Big mb-4">
+                        <div className="card border border-white rounded">
                         <a href="https://inspiritedminds.org.uk/blog/mindful-muslim-podcast/" target="_blank" rel="noopener noreferrer"> 
-                        <img src="https://imgur.com/MyaoD1h.jpg" alt="..." className="card-img-top rounded Big"/></a>
+                        <img src="https://imgur.com/MyaoD1h.jpg" alt="..." className="rounded card-img-top img-fluid Big"/></a>
                         </div>
                       </div>
-                      <div className="col xl-4">
-                        <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/qbPxUkH.jpg" alt="..." className="card-img-top rounded"/>
+                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
+                        <div className="card border border-white rounded">
+                        <img src="https://imgur.com/qbPxUkH.jpg" alt="..." className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
                   </div>
 
 
-                  <div className="row mb-4">
-                      <div className="col xl-4">
-                        <div className="card img-fluid border border-white rounded">
+                  <div className="row">
+                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 Big mb-4">
+                        <div className="card border border-white rounded">
                         <a href="https://www.goodreads.com/book/show/425857.The_Relief_From_Distress" target="_blank" rel="noopener noreferrer"> 
-                        <img src="https://imgur.com/OT6M833.jpg" alt="..." className="card-img-top rounded Big"/></a>
+                        <img src="https://imgur.com/OT6M833.jpg" alt="..." className="rounded card-img-top img-fluid Big"/></a>
                         </div>
                       </div>
-                      <div className="col xl-4">
-                        <div className="card img-fluid border border-white rounded">
+                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 Big mb-4">
+                        <div className="card border border-white rounded">
                         <a href="https://www.fastcompany.com/40522127/4-tips-to-help-you-curb-your-anxiety-from-uncertainty" target="_blank" rel="noopener noreferrer"> 
-                        <img src="https://imgur.com/xOmACpD.jpg" alt="..." className="card-img-top rounded Big"/></a>
+                        <img src="https://imgur.com/xOmACpD.jpg" alt="..." className="rounded card-img-top img-fluid Big"/></a>
                       </div>
                       </div>
-                      <div className="col xl-4">
+                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
                         <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/cOZcTsC.jpg" alt="..." className="card-img-top rounded"/>
+                        <img src="https://imgur.com/cOZcTsC.jpg" alt="..." className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
                   </div>
 
 
-                  <div className="row mb-4">
+                  <div className="row">
                   <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                         <a href="https://www.goodreads.com/book/show/29214797-anti-stress" target="_blank" rel="noopener noreferrer"> 
@@ -189,7 +189,7 @@ class Anxiety extends Component {
                   </div>
 
 
-                  <div className="row mb-4">
+                  <div className="row">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                         <a href="https://www.goodreads.com/book/show/40408946-25-ways-to-deal-with-stress-anxiety-depression-from-islamic-perspecti" target="_blank" rel="noopener noreferrer"> 
@@ -210,7 +210,7 @@ class Anxiety extends Component {
                   </div>
 
 
-                  <div className="row mb-4">
+                  <div className="row">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                         <a href="https://www.goodreads.com/book/show/41551225-practicing-mindfulness" target="_blank" rel="noopener noreferrer">
@@ -231,7 +231,7 @@ class Anxiety extends Component {
                   </div>
 
 
-                  <div className="row mb-4">
+                  <div className="row">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                         <a href="https://www.goodreads.com/book/show/9415367-dealing-with-worries-stress" target="_blank" rel="noopener noreferrer">

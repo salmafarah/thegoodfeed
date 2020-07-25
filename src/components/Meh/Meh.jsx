@@ -259,8 +259,8 @@ class Meh extends Component {
 
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
                         <div className="card border border-white rounded">
-                            <img src="https://i.imgur.com/oPsAIEc.png" 
-                            alt="Allah tests us with what we love" 
+                            <img src="https://i.imgur.com/gTVDzK0.png" 
+                            alt="Meh - indiference; not to be used when one simply does not care." 
                             className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>

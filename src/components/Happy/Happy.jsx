@@ -48,66 +48,75 @@ class Meh extends Component {
 
             <div className="container align-items-center mt-5">
               <div className="row">
+
               <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card border border-white rounded">
-                            <a href="https://www.goodreads.com/book/show/7229651-i-don-t-know-what-i-want-but-i-know-it-s-not-this" 
-                             target="_blank"
-                               rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/D3WhKcE.jpg" 
-                                 alt="I don't ko wwhat I want but I kmow it's not this" 
-                                 className="rounded card-img-top img-fluid"/>
-                            </a>
-                        </div>
-                      </div>
+              <div className="card border border-white rounded">
+                <a href="https://www.goodreads.com/book/show/57538.It_s_All_in_Your_Head?ac=1&from_search=true&qid=K8qlukoVRY&rank=1"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                <img src="https://i.imgur.com/stMj7L8.jpg" 
+                     alt="It's all in your head: think your way to happiness by Mark Levine and Stephen M Pollan" 
+                     className="rounded card-img-top img-fluid"/>
+                </a>
+              </div>
+              </div>
 
-                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
-                        <div className="card border border-white rounded">
-                                <img src="https://i.imgur.com/nkKN6mM.png" 
-                                 alt="In the midst of chaos there is also opportunity" 
-                                 className="rounded card-img-top img-fluid"/>
-                        </div>
-                      </div>
+              <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4"> 
+              <div className="card border border-white rounded">
+                  <img src="https://i.imgur.com/vK4WTTl.png" 
+                       alt="Today you are you, that is truer than true. There is no one alive that is youer than you - Dr.Suess" 
+                       className="rounded card-img-top img-fluid"/>
+             </div>
+             </div>
 
-                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card border border-white rounded">
-                            <a href="https://www.goodreads.com/book/show/7229651-i-don-t-know-what-i-want-but-i-know-it-s-not-this" 
-                             target="_blank"
-                               rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/D3WhKcE.jpg" 
-                                 alt="I don't ko wwhat I want but I kmow it's not this" 
-                                 className="rounded card-img-top img-fluid"/>
-                            </a>
-                        </div>
-                      </div>
+              <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
+              <div className="card border border-white rounded">
+                  <a href="https://www.goodreads.com/book/show/6398634-the-happiness-project?ac=1&from_search=true&qid=xzqg6scRvC&rank=1"
+                     target="_blank"
+                     rel="noopener noreferrer">
+                  <img src="https://i.imgur.com/fg0kGEd.jpg" 
+                       alt="The Happiness Project: Or Why I Spent a Year Trying to Sing in the Morning, Clean My Closets, Fight Right, Read Aristotle, and Generally Have More Fun by Gretchen Rubin" 
+                       className="rounded card-img-top img-fluid"/>
+                  </a>
+              </div>
+              </div>
                      
-                  </div>
+              </div>
 
+              <div className="row">
+              
+            <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
+            <div className="card border border-white rounded">
+                <a href="https://www.whyislam.org/spiritual-journeys/happiness/"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                <img src="https://i.imgur.com/FuGR1lj.png" 
+                     alt="Four Common Barriers to Happiness and their Islamic Solutions" 
+                     className="rounded card-img-top img-fluid"/>
+                </a>
+            </div>
+            </div>
 
-                  <div className="row">
-                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card border border-white rounded">
-                            <a href="https://www.harpersbazaar.com/uk/beauty/mind-body/a27416416/mid-point-mental-health-why-are-we-all-feeling-so-flat/" 
-                             target="_blank"
-                               rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/rPKrxFH.png" 
-                                alt="Mid-piont Mental Health: why are we all feeling so flat" 
-                                className="rounded card-img-top img-fluid"/>
-                            </a>
-                        </div>
-                      </div>
+            <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 ">
+            <div className="card border border-white rounded">
+               <img src="https://i.imgur.com/xMst2vY.png" 
+                    alt="When I was 5 years old, my mother always told me that happiness was the key to life. When I went to school, they asked me what I wanted to be when I grew up. I wrote down ‘happy’. They told me I didn’t understand the assignment, and I told them they didn’t understand life." 
+                    className="rounded card-img-top img-fluid"/>
+            </div>
+            </div>
 
-                        <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card border border-white rounded">
-                        <a href="https://www.goodreads.com/book/show/25861992-where-you-go-is-not-who-you-ll-be" 
-                           target="_blank"
-                           rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/zLTyfHV.png" 
-                            alt="Where you go is not who you'll be by Frank Bruni" 
-                            className="rounded card-img-top img-fluid"/>
-                            </a>
-                        </div>
-                        </div>
-
+            <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
+            <div className="card border border-white rounded">
+                <a href="https://yaqeeninstitute.org/omar-edward-moad/the-technology-of-happiness/" 
+                   target="_blank"
+                   rel="noopener noreferrer">
+                <img src="https://i.imgur.com/Lx14WLo.png" 
+                     alt="The Technology of Happiness - Yaqeen Institute" 
+                     className="rounded card-img-top img-fluid"/>
+               </a>
+            </div>
+            </div>
+{/* 
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card border border-white rounded">
                         <a href="https://psychcentral.com/blog/feeling-blah-this-might-be-why/" 
@@ -117,22 +126,23 @@ class Meh extends Component {
                             alt="Feeling Blah this might be why" 
                             className="rounded card-img-top img-fluid"/>
                             </a>
-                        </div>
-                      </div>
-                    </div>
+                        </div>*/}
+            </div>
 
-                    <div className="row">
-                        <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card border border-white rounded">
-                            <a href="https://lewishowes.com/podcast/welcome-to-the-school-of-greatness/" 
-                             target="_blank"
-                               rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/SzhtdKv.png" 
-                             alt="The School of Greatness podcast" 
-                             className="rounded card-img-top img-fluid"/>
-                            </a>
-                        </div>
-                      </div>
+
+            <div className="row">
+            
+            <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
+            <div className="card border border-white rounded">
+               <a href="https://lewishowes.com/podcast/welcome-to-the-school-of-greatness/" 
+                  target="_blank"
+                  rel="noopener noreferrer">
+                <img src="https://i.imgur.com/SzhtdKv.png" 
+                     alt="The School of Greatness podcast" 
+                     className="rounded card-img-top img-fluid"/>
+                </a>
+            </div>
+            </div>
 
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card border border-white rounded">

@@ -47,9 +47,9 @@
 .Info
 {
     position: absolute;
-    top: 10%;
-    right: 8%;
-    left: 8%;
+    top: 8%;
+    right: 5%;
+    left: 5%;
     justify-content: center;
 }
 
@@ -148,7 +148,7 @@
 .IconA
 {
     position: absolute;
-    height: 60%;
+    height: 56%;
     max-width: 70%;
     top: 5%;
     right: 11%;
@@ -157,7 +157,7 @@
 .Icon
 {
     position: absolute;
-    height: 58%;
+    height: 54%;
     max-width: 70%;
     top: 10%;
 }

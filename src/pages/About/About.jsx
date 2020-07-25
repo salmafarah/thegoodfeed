@@ -42,8 +42,8 @@ class About extends Component {
                   <div className="card h-100">
                       <div className="card-body">
                         <h2 className="card-title">Alaa Salim</h2>
-                        <h6 className="card-subtitle mb-2 text-muted">Software Developer</h6>
-                        <p className="card-text">Alaa is a developer with a passion for designing. She enjoys painting, and sketching. Although most of the time she’s watching crime shows on Netflix she also likes to do word searches, puzzles and learn new Adobe tools.</p>
+                        <h6 className="card-subtitle mb-2 text-muted">Computer Scientist</h6>
+                        <p className="card-text">Alaa is a developer with a passion for designing. She enjoys painting and sketching. Although most of the time she’s watching crime shows on Netflix she also likes to do word searches, puzzles and learn new Adobe tools.</p>
                         <a href="https://github.com/alaa-salim" target="_blank" rel="noopener noreferrer" className="card-link"> GitHub: alaa-salim </a>
                       </div>
                     </div>

@@ -4,7 +4,7 @@ import "./About.css"
 class About extends Component {
     render(){
         return(
-            <div className = "Wrap">    
+            <div className = "Background">    
             
             < img src = "https://i.imgur.com/UeAYvsq.png"
               alt = "3 people conversing"
@@ -37,7 +37,7 @@ class About extends Component {
                 <h2> Alaa Salim</h2>
             </div> 
 
-            <h5 className = "Email"> email address</h5>
+            {/* <h5 className = "Email"> email address</h5> */}
 
             </div>
 

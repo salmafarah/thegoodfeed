@@ -3,20 +3,136 @@
     width: 900px;
 }
 
-.Wrap{
+  .Background {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
-  }
-
-  .Wrap {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 200vh;
+    height: 180vh;
     position: relative;
     background-image: url("https://imgur.com/xWgfN8C.jpg");
     background-position: center;
-   background-size: cover;
+    background-size: cover;
+}
+
+.Bismillah
+{
+    font-size: 300%;
+    position: absolute;
+    top: 0%;
+    text-align: center;
+    font-weight: 900;
+}
+
+.Tagline
+{
+    position: absolute;
+    top: 5%;
+    text-align: center;
+    font-weight: 900;
+    color: rgb(77, 55, 173);
+    font: 3em copperplate;
+}
+
+.Box 
+{
+    position: absolute;
+    right: 3%;
+    top: 11%;
+    width: 40%;
+    height: 60vh;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #daf3fe;
+    text-align: center;
+    font: 1em georgia;
+}
+
+.Image
+{
+    position: absolute;
+    top: 18%;
+    width: 46%;
+    left: 3%;
+}
+
+.Team
+{
+    font-weight: 900;
+    font: 3em georgia;
+    font-size: 300%;
+    top: 50%;
+}
+
+.BoxA
+{
+    position: absolute;
+    right: 1%;
+    top: 53%;
+    width: 23%;
+    height: 50vh;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #daf3fe;
+    text-align: center;
+    font: 1em georgia;
+}
+
+.BoxB
+{
+    position: absolute;
+    left: 1%;
+    top: 53%;
+    width: 23%;
+    height: 50vh;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color:#EDC9AF;
+    text-align: center;
+    font: 1em georgia;
+}
+
+.BoxC
+{
+    position: absolute;
+    right: 26%;
+    top: 53%;
+    width: 23%;
+    height: 50vh;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #b7afd4;
+    text-align: center;
+    font: 1em georgia;
+}
+
+.BoxD
+{
+    position: absolute;
+    left: 26%;
+    top: 53%;
+    width: 23%;
+    height: 50vh;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #F6E07A;
+    text-align: center;
+    font: 1em georgia;
+}
+
+.abtImage
+{
+    position: absolute;
+    top: 84%;
+    width: 40%;
+    left: 3%;
 }

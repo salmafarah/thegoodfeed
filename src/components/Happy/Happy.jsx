@@ -54,7 +54,7 @@ class Happy extends Component {
                             <a href="https://www.amazon.com/Its-All-Your-Head-Happiness/dp/0060760001" 
                              target="_blank"
                                rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/mR2EYgB.png" 
+                            <img src="https://i.imgur.com/stMj7L8.jpg" 
                              alt="It's all in your head by Mark Levine and Stephen M.Polland" 
                              className="card border border-white rounded"/>
                             </a>
@@ -63,7 +63,7 @@ class Happy extends Component {
 
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 Big mb-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/4bUU6FM.png" 
+                            <img src="https://i.imgur.com/vK4WTTl.png" 
                             alt="Today you are you, that is truer than true. There is no one alive who is youer than you. - Dr.Suess " 
                             className="card border border-white rounded"/>
                         </div>
@@ -74,8 +74,8 @@ class Happy extends Component {
                             <a href="https://gretchenrubin.com/books/the-happiness-project/about-the-book/" 
                              target="_blank"
                                rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/YinHXT2.png" 
-                                 alt="...." 
+                                <img src="https://i.imgur.com/fg0kGEd.jpg" 
+                                 alt="The happiness projecr by Gretchen Rubin" 
                                  className="card border border-white rounded"/>
                             </a>
                         </div>
@@ -89,8 +89,8 @@ class Happy extends Component {
                             <a href="https://yaqeeninstitute.org/yasienmohamed/the-idea-of-happiness-in-the-quran/" 
                              target="_blank"
                                rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/6IBvfJ5.png" 
-                                alt="....." 
+                                <img src="" 
+                                alt="The idea of happiness in the Quran - Yaqeen Institute" 
                                 className="card border border-white rounded"/>
                             </a>
                         </div>

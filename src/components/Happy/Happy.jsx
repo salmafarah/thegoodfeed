@@ -3,7 +3,7 @@ import Iframe from 'react-iframe';
 import { Link } from 'react-router-dom';
 
 
-class Meh extends Component {
+class Happy extends Component {
     render(){
         return(
           <div class="container">
@@ -14,7 +14,7 @@ class Meh extends Component {
                   <p>Anxious</p>
                 </Link>
               </div>
-              <div class="emoji">
+              <div class="emoji selectedEmoji">
                 <Link to="/happy" style={{ textDecoration: 'none' }}>
                   <img src="https://imgur.com/a19PgPn.jpg" alt="happyEmoji" class="emojiImg" />
                   <p>Happy</p>
@@ -38,7 +38,7 @@ class Meh extends Component {
                   <p>Fear</p>
                 </Link>
               </div>
-              <div class="emoji selectedEmoji">
+              <div class="emoji">
                 <Link to="/meh" style={{ textDecoration: 'none' }}>
                   <img src="https://imgur.com/QQV4kCY.jpg" alt="mehEmoji" class="emojiImg" />
                   <p>Meh</p>
@@ -164,7 +164,7 @@ class Meh extends Component {
      
              <div className="col-12  col-sm-12 col-mb-4 col-lg-4  mb-4">
              <div className="card border border-white rounded">
-                <Iframe url="https://www.youtube.com/embed/=_R6R62qUgIs" 
+                <Iframe url="https://www.youtube.com/embed/_R6R62qUgIs" 
                        className="rounded card-img-top img-fluid"/>
              </div>
              </div>
@@ -179,7 +179,7 @@ class Meh extends Component {
 
              <div className="col-12  col-sm-12 col-mb-4 col-lg-4  mb-4">
              <div className="card border border-white rounded">
-                <Iframe url="https://www.youtube.com/embed/=pIhUUs28dj0" 
+                <Iframe url="https://www.youtube.com/embed/pIhUUs28dj0" 
                         className="rounded card-img-top img-fluid"/>
              </div>
              </div>
@@ -196,7 +196,7 @@ class Meh extends Component {
 
               <div className="col-12  col-sm-12 col-mb-4 col-lg-4  mb-4">
               <div className="card border border-white rounded">
-                  <Iframe url="https://www.youtube.com/embed/=g3SO3Ej2G6E" 
+                  <Iframe url="https://www.youtube.com/embed/GXy__kBVq1M" 
                           className="rounded card-img-top img-fluid"/>
               </div>
               </div>
@@ -213,7 +213,7 @@ class Meh extends Component {
               <div className="row">
               <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
               <div className="card  border border-white rounded">
-                <Iframe url="https://www.youtube.com/embed/=g3SO3Ej2G6E" 
+                <Iframe url="https://www.youtube.com/embed/g3SO3Ej2G6E" 
                         className="rounded card-img-top img-fluid"/>
               </div>
               </div>
@@ -232,7 +232,7 @@ class Meh extends Component {
 
               <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
               <div className="card  border border-white rounded">
-                <Iframe url="https://www.youtube.com/embed/=q42CHm2-tYw" 
+                <Iframe url="https://www.youtube.com/embed/q42CHm2-tYw" 
                         className="rounded card-img-top img-fluid"/>
               </div>
               </div>
@@ -348,7 +348,7 @@ class Meh extends Component {
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
                         <div className="card img-fluid border border-white rounded">
                             <img src="https://i.imgur.com/Xl15xs5.png" 
-                            alt="Always believe something wonderful is about to happen" 
+                            alt="Always believe something wonderful is about to happen " 
                             className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
@@ -372,4 +372,4 @@ class Meh extends Component {
     }
 }
 
-export default Meh;
+export default Happy;

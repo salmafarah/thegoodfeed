@@ -50,10 +50,10 @@ class Meh extends Component {
               <div className="row">
               <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card border border-white rounded">
-                            <a href="https://www.amazon.com/Dont-Know-What-Step-Step/dp/0143128515" 
+                            <a href="https://www.goodreads.com/book/show/7229651-i-don-t-know-what-i-want-but-i-know-it-s-not-this" 
                              target="_blank"
                                rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/ZDD8xfW.png" 
+                                <img src="https://i.imgur.com/D3WhKcE.jpg" 
                                  alt="I don't ko wwhat I want but I kmow it's not this" 
                                  className="rounded card-img-top img-fluid"/>
                             </a>
@@ -94,11 +94,11 @@ class Meh extends Component {
 
                         <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card border border-white rounded">
-                        <a href="https://www.amazon.com/Where-You-Not-Who-Youll/dp/1455532681" 
+                        <a href="https://www.goodreads.com/book/show/25861992-where-you-go-is-not-who-you-ll-be" 
                            target="_blank"
                            rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/zzsaLfV.png" 
-                            alt="..." 
+                            <img src="https://i.imgur.com/zLTyfHV.png" 
+                            alt="Where you go is not who you'll be by Frank Bruni" 
                             className="rounded card-img-top img-fluid"/>
                             </a>
                         </div>
@@ -123,7 +123,7 @@ class Meh extends Component {
                             <a href="https://lewishowes.com/podcast/welcome-to-the-school-of-greatness/" 
                              target="_blank"
                                rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/0w6j6qp.jpg" 
+                            <img src="https://i.imgur.com/SzhtdKv.png" 
                              alt="The School of Greatness podcast" 
                              className="rounded card-img-top img-fluid"/>
                             </a>
@@ -135,7 +135,7 @@ class Meh extends Component {
                             <a href="https://www.islamicfinanceguru.com/podcast/" 
                                target="_blank"
                                rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/13zoZ97.png" 
+                                <img src="https://i.imgur.com/l62ZGK2.png" 
                                  alt="Millionaire Muslium" 
                                  className="rounded card-img-top img-fluid"/>
                             </a>
@@ -144,11 +144,11 @@ class Meh extends Component {
 
                         <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card border border-white rounded">
-                            <a href="https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713/ref=pd_sbs_14_1/147-3390570-7212226?_encoding=UTF8&pd_rd_i=0062457713&pd_rd_r=02323e38-6cce-4316-a082-9a14952f1ade&pd_rd_w=yYC74&pd_rd_wg=USIGm&pf_rd_p=bdc67ba8-ab69-42ee-b8d8-8f5336b36a83&pf_rd_r=R1B7QS8PVZ4JM1EE8PQZ&psc=1&refRID=R1B7QS8PVZ4JM1EE8PQZ" 
+                            <a href="https://www.goodreads.com/book/show/17851885-i-am-malala?ac=1&from_search=true&qid=D7nGS6VChR&rank=1" 
                              target="_blank"
                                rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/Oltaumx.png" 
-                             alt="Subtle art of not giving a fuck" 
+                            <img src="https://i.imgur.com/BQqNNJV.jpg" 
+                             alt="I am Malala" 
                              className="rounded card-img-top img-fluid"/>
                             </a>
                         </div>
@@ -171,10 +171,10 @@ class Meh extends Component {
 
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card border border-white rounded">
-                            <a href="https://www.amazon.com/Thriving-At-Work-Didnt-School-ebook/dp/B0783QZ5T2" 
+                            <a href="https://www.goodreads.com/book/show/525197.In_The_Early_Hours?ac=1&from_search=true&qid=tjzTkHObTs&rank=1" 
                             target="_blank"
                             rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/XS2A3Ad.png" 
+                                <img src="https://i.imgur.com/PPTSUdD.jpg" 
                                 alt="Thriving at work" 
                                 className="rounded card-img-top img-fluid"/>
                             </a>
@@ -197,10 +197,10 @@ class Meh extends Component {
                 <div className="row">
                 <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card border border-white rounded">
-                            <a href="https://www.amazon.com/Healing-Politics-Doctors-Political-Epidemic/dp/1419743023/ref=pd_sbs_14_3/132-4834624-9685322?_encoding=UTF8&pd_rd_i=1419743023&pd_rd_r=80fc9685-eed0-4427-9ee8-8d47f4825e42&pd_rd_w=LGSFw&pd_rd_wg=a3FY1&pf_rd_p=bdc67ba8-ab69-42ee-b8d8-8f5336b36a83&pf_rd_r=G7FMZQN674R8XB77C6QQ&psc=1&refRID=G7FMZQN674R8XB77C6QQ"
+                            <a href="https://www.goodreads.com/book/show/50158142-healing-politics?ac=1&from_search=true&qid=AI3ivNSxRC&rank=1"
                              target="_blank" 
                              rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/UdAFDbq.png" 
+                            <img src="https://i.imgur.com/6ykBwHm.jpg" 
                             alt="Healing Politics" 
                             className="rounded card-img-top img-fluid"/>
                         </a>
@@ -209,10 +209,10 @@ class Meh extends Component {
 
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card border border-white rounded">
-                        <a href="https://www.amazon.com/Untitled-Mark-Manson/dp/0062888439" 
+                        <a href="https://www.goodreads.com/book/show/45443399-everything-is-fucked?ac=1&from_search=true&qid=mUJ2p11vzB&rank=1" 
                            target="_blank"
                            rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/GrpBKbq.png" 
+                            <img src="https://i.imgur.com/SEwMzbF.png" 
                             alt="Every thing is Fucked" 
                             className="rounded card-img-top img-fluid"/>
                             </a>
@@ -221,10 +221,10 @@ class Meh extends Component {
 
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card border border-white rounded">
-                        <a href="https://www.amazon.com/Prayers-Pious-Omar-Suleiman/dp/1847741290" 
+                        <a href="https://www.goodreads.com/book/show/44430409-prayers-of-the-pious?ac=1&from_search=true&qid=pNX92TQfkV&rank=1" 
                            target="_blank"
                            rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/zQx1eAY.png" 
+                            <img src="https://i.imgur.com/vFTEHZS.png" 
                             alt="Payers of the Pious" 
                             className="rounded card-img-top img-fluid"/>
                             </a>
@@ -235,10 +235,10 @@ class Meh extends Component {
                   <div className="row">
                   <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card  border border-white rounded">
-                        <a href="https://www.amazon.com/Laughing-All-Way-Mosque-Misadventures/dp/0349005931" 
+                        <a href="https://www.goodreads.com/book/show/20726946-laughing-all-the-way-to-the-mosque?ac=1&from_search=true&qid=4mPM6pIRBQ&rank=1" 
                             target="_blank"
                             rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/TU8r1Wp.png" 
+                                <img src="https://i.imgur.com/gZX6h9V.jpg" 
                                 alt="Laughing All the Way to the Mosque" 
                                 className="rounded card-img-top img-fluid"/>
                             </a>
@@ -247,10 +247,10 @@ class Meh extends Component {
 
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card border border-white rounded">
-                        <a href="https://www.amazon.com/Proud-Fight-Unlikely-American-Dream/dp/0316518964" 
+                        <a href="https://www.goodreads.com/book/show/36589118-proud?ac=1&from_search=true&qid=jrRK5344MA&rank=2" 
                             target="_blank"
                             rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/CfdyMs2.png" 
+                                <img src="https://i.imgur.com/vEEU9Lb.jpg" 
                                 alt="Proud: My Fight for an Unlikely American Dream" 
                                 className="rounded card-img-top img-fluid"/>
                             </a>
@@ -270,10 +270,10 @@ class Meh extends Component {
                   <div className="row">
                   <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card border border-white rounded">
-                        <a href="https://www.amazon.com/Threading-My-Prayer-Rug-Pakistani/dp/1628728620/ref=pd_lpo_14_img_0/146-2166979-3798624?_encoding=UTF8&pd_rd_i=1628728620&pd_rd_r=4f0d5826-25f7-4891-8e61-ee5d843481b3&pd_rd_w=q7tR0&pd_rd_wg=lhiYr&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=44YJ2DXEW30CQH5YF5MF&psc=1&refRID=44YJ2DXEW30CQH5YF5MF" 
+                        <a href="hhttps://www.goodreads.com/book/show/25898620-threading-my-prayer-rug?ac=1&from_search=true&qid=PSlJshHPQ1&rank=2" 
                             target="_blank"
                             rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/1Pzh5v9.png" 
+                                <img src="https://i.imgur.com/8COfjy8.jpg" 
                                 alt="Threading my prayer Rug" 
                                 className="rounded card-img-top img-fluid"/>
                             </a>
@@ -282,19 +282,19 @@ class Meh extends Component {
         
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
                         <div className="card border border-white rounded">
-                            <img src="https://i.imgur.com/LUxaSqQ.png" 
-                            alt="There isno beauty better than Intellect" 
+                            <img src="https://i.imgur.com/ZGJY4h5.png" 
+                            alt="There is no beauty better than Intellect" 
                             className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
 
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card border border-white rounded">
-                        <a href="https://www.amazon.com/Muslim-Girl-Coming-Amani-Al-Khatahtbeh/dp/1501159518/ref=pd_lpo_14_img_1/146-2166979-3798624?_encoding=UTF8&pd_rd_i=1501159518&pd_rd_r=4f0d5826-25f7-4891-8e61-ee5d843481b3&pd_rd_w=q7tR0&pd_rd_wg=lhiYr&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=44YJ2DXEW30CQH5YF5MF&psc=1&refRID=44YJ2DXEW30CQH5YF5MF" 
+                        <a href="https://www.goodreads.com/book/show/432539.The_Sealed_Nectar_Biography_of_Prophet_Muhammad?ac=1&from_search=true&qid=hr8TKa5AQz&rank=1" 
                             target="_blank"
                             rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/M0wQr3f.png" 
-                                alt="Muslium Girl" 
+                                <img src="https://i.imgur.com/YpN0Ip6.jpg" 
+                                alt="The Sealed Nectar Biography of Prophet Muhammed " 
                                 className="rounded card-img-top img-fluid"/>
                             </a>
                         </div>
@@ -305,11 +305,11 @@ class Meh extends Component {
                   <div className="row">
                   <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card border border-white rounded">
-                            <a href="https://www.amazon.com/Chicken-Soup-Soul-Positive-Creating/dp/161159992X/ref=pd_lpo_14_img_0/134-9659737-3995727?_encoding=UTF8&pd_rd_i=161159992X&pd_rd_r=32545167-9a69-404d-b2dc-67b69dbfd7ff&pd_rd_w=vJMKP&pd_rd_wg=NXlPY&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=EYS7SS1BP11H4XF6368B&psc=1&refRID=EYS7SS1BP11H4XF6368B" 
+                            <a href="https://www.goodreads.com/book/show/3788053-three-cups-of-tea?ac=1&from_search=true&qid=KJvMU5Ver0&rank=2" 
                              target="_blank"
                             rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/tAybLn7.png" 
-                                alt="Think positive live happy" 
+                                <img src="https://i.imgur.com/kjhyW0B.jpg" 
+                                alt="Three cups of tea by Sarah L.Thomson" 
                                 className="rounded card-img-top img-fluid"/>
                             </a>
                         </div>
@@ -317,11 +317,11 @@ class Meh extends Component {
                       
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card border border-white rounded">
-                        <a href="https://www.amazon.com/This-What-America-Looks-Like/dp/0062954210/ref=pd_sbs_14_3/132-4834624-9685322?_encoding=UTF8&pd_rd_i=0062954210&pd_rd_r=35ac91b0-ab6a-4b98-badd-9ee7e7a333f4&pd_rd_w=mCvxR&pd_rd_wg=zBh1X&pf_rd_p=bdc67ba8-ab69-42ee-b8d8-8f5336b36a83&pf_rd_r=AYYPG2RKN5PCJAYBZQFR&psc=1&refRID=AYYPG2RKN5PCJAYBZQFR" 
+                        <a href="https://www.goodreads.com/book/show/51927994-this-is-what-america-looks-like?ac=1&from_search=true&qid=3JHjRtjz8U&rank=1" 
                            target="_blank"
                            rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/9oomwwa.png" 
-                            alt="Looks Like" 
+                            <img src="https://i.imgur.com/RxliAID.jpg" 
+                            alt="THis is what America Looks like by Ilhan Omar" 
                             className="rounded card-img-top img-fluid"/>
                             </a>
                         </div>
@@ -329,11 +329,11 @@ class Meh extends Component {
 
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                       <div className="card border border-white rounded">
-                            <a href="https://www.amazon.com/Becoming-Kareem-Growing-Off-Court/dp/031655538X" 
+                            <a href="https://www.goodreads.com/book/show/714314.The_Autobiography_of_Malcom_X?ac=1&from_search=true&qid=wuJkuf0l9O&rank=1" 
                             target="_blank"
                              rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/SC7i0hV.png" 
-                            alt="Becoming Kareem" 
+                            <img src="https://i.imgur.com/CNlWjtd.jpg" 
+                            alt="The autobiography of MalcolmX" 
                             className="rounded card-img-top img-fluid"/>
                         </a>
                         </div>
@@ -344,11 +344,11 @@ class Meh extends Component {
                   <div className="row">
                   <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card border border-white rounded">
-                        <a href="https://www.amazon.com/Are-Not-Here-Bystanders-Resistance/dp/198210516X/ref=pd_sbs_14_4/132-4834624-9685322?_encoding=UTF8&pd_rd_i=198210516X&pd_rd_r=fb8396c9-c551-4828-8cb3-89f2c725a99d&pd_rd_w=Cce5f&pd_rd_wg=DUpsn&pf_rd_p=bdc67ba8-ab69-42ee-b8d8-8f5336b36a83&pf_rd_r=FJQWQQM3P3J6E7FSQJVX&psc=1&refRID=FJQWQQM3P3J6E7FSQJVX" 
+                        <a href="https://www.goodreads.com/book/show/51321388-we-are-not-here-to-be-bystanders?ac=1&from_search=true&qid=WY2HXdqbx4&rank=2" 
                          target="_blank"
                          rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/sJjWbT4.png" 
-                            alt="...." 
+                            <img src="https://i.imgur.com/V8Izlik.jpg" 
+                            alt="We are not here to be bystanders " 
                             className="rounded card-img-top img-fluid"/>
                             </a>
                         </div>
@@ -356,11 +356,11 @@ class Meh extends Component {
 
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card border border-white rounded">
-                        <a href="https://www.amazon.com/Letters-Young-Muslim-Omar-Ghobash/dp/1250119847/ref=pd_sbs_14_15?_encoding=UTF8&pd_rd_i=1250119847&pd_rd_r=7dc78583-0b13-4dc4-aed7-c39efe4d0009&pd_rd_w=lZlXW&pd_rd_wg=kRzhe&pf_rd_p=bdc67ba8-ab69-42ee-b8d8-8f5336b36a83&pf_rd_r=J5S6M0ADWRCM0HXC654N&psc=1&refRID=J5S6M0ADWRCM0HXC654N" 
+                        <a href="https://www.goodreads.com/book/show/81240.The_Meaning_of_the_Holy_Qur_an?ac=1&from_search=true&qid=L6sTeaeaoS&rank=1" 
                            target="_blank"
                            rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/p9iDU5p.png" 
-                            alt="Letters to a young muslim" 
+                            <img src="https://i.imgur.com/uO2zfgc.jpg" 
+                            alt="The meaning of the Holy Quran" 
                             className="rounded card-img-top img-fluid"/>
                             </a>
                         </div>
@@ -369,7 +369,7 @@ class Meh extends Component {
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
                         <div className="card border border-white rounded">
                             <img src="https://i.imgur.com/X0xCgIT.png" 
-                            alt="Falling down is an accident; stzyign down is a choice" 
+                            alt="Falling down is an accident; standing down is a choice" 
                             className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
@@ -379,11 +379,11 @@ class Meh extends Component {
                   <div className="row">
                   <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card border border-white rounded">
-                            <a href="https://www.amazon.com/dp/B07492TJ79/ref=sspa_dk_detail_6?psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExR0NOQlgzQ0VaOTg0JmVuY3J5cHRlZElkPUEwNDUwODE0N01NWFIyMTBJRlpCJmVuY3J5cHRlZEFkSWQ9QTA2NzA0NDAyR04xTjhONUpDNloyJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==" 
+                            <a href="https://www.goodreads.com/book/show/43261127-tiny-habits?ac=1&from_search=true&qid=MnBBRe1WaE&rank=1" 
                              target="_blank"
                              rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/N5WcTgd.png" 
-                            alt="....." 
+                            <img src="https://i.imgur.com/7cFSX8Y.png" 
+                            alt="Tiny habits: the small changes that change everything" 
                             className="rounded card-img-top img-fluid"/>
                         </a>
                         </div>
@@ -391,11 +391,11 @@ class Meh extends Component {
 
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card img-fluid border border-white rounded">
-                        <a href="https://www.amazon.com/They-Cant-Kill-All-Baltimore-ebook/dp/B01CO4AUA4" 
+                        <a href="https://www.goodreads.com/book/show/35840054-relentless-optimism?ac=1&from_search=true&qid=skdAxWlGFP&rank=1" 
                            target="_blank"
                            rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/VYBEEZ4.png" 
-                            alt="Can't kill us all" 
+                            <img src="https://i.imgur.com/5wOYUtG.png" 
+                            alt="Relentless optimism by Darrin Donnelly" 
                             className="rounded card-img-top img-fluid"/>
                             </a>
                         </div>

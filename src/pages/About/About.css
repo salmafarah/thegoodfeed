@@ -1,9 +1,11 @@
-.About{
+.About
+{
     height: 300px;
     width: 900px;
 }
 
-  .Background {
+  .Background 
+{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -16,11 +18,20 @@
 
 .Bismillah
 {
-    font-size: 300%;
+    font-size: 350%;
     position: absolute;
     top: 0%;
     text-align: center;
     font-weight: 900;
+}
+
+.Alhamdulillah
+{
+    font-size: 500%;
+    position: absolute;
+    bottom: 4%;
+    text-align: center;
+    font-weight: 700;
 }
 
 .Tagline
@@ -30,20 +41,28 @@
     text-align: center;
     font-weight: 900;
     color: rgb(77, 55, 173);
-    font: 3em copperplate;
+    font: 3.5em copperplate;
+}
+
+.Info
+{
+    position: absolute;
+    top: 10%;
+    right: 8%;
+    left: 8%;
+    justify-content: center;
 }
 
 .Box 
 {
     position: absolute;
-    right: 3%;
+    right: 9%;
     top: 11%;
     width: 40%;
     height: 60vh;
     border-radius: 10px;
     display: flex;
     justify-content: center;
-    align-content: center;
     background-color: #daf3fe;
     text-align: center;
     font: 1em georgia;
@@ -52,31 +71,31 @@
 .Image
 {
     position: absolute;
-    top: 18%;
-    width: 46%;
-    left: 3%;
+    top: 17%;
+    height: 23%;
+    width: 35%;
+    left: 10%;
 }
 
 .Team
 {
     font-weight: 900;
-    font: 3em georgia;
-    font-size: 300%;
-    top: 50%;
+    font: 3em georgia-bold;
+    font-size: 400%;
+    top: 54%;
 }
 
 .BoxA
 {
     position: absolute;
     right: 1%;
-    top: 53%;
+    top: 56%;
     width: 23%;
     height: 50vh;
     border-radius: 10px;
     display: flex;
     justify-content: center;
-    align-content: center;
-    background-color: #daf3fe;
+    background-color: #a8dcf3;
     text-align: center;
     font: 1em georgia;
 }
@@ -85,13 +104,12 @@
 {
     position: absolute;
     left: 1%;
-    top: 53%;
+    top: 56%;
     width: 23%;
     height: 50vh;
     border-radius: 10px;
     display: flex;
     justify-content: center;
-    align-content: center;
     background-color:#EDC9AF;
     text-align: center;
     font: 1em georgia;
@@ -101,13 +119,12 @@
 {
     position: absolute;
     right: 26%;
-    top: 53%;
+    top: 56%;
     width: 23%;
     height: 50vh;
     border-radius: 10px;
     display: flex;
     justify-content: center;
-    align-content: center;
     background-color: #b7afd4;
     text-align: center;
     font: 1em georgia;
@@ -117,22 +134,47 @@
 {
     position: absolute;
     left: 26%;
-    top: 53%;
+    top: 56%;
     width: 23%;
     height: 50vh;
     border-radius: 10px;
     display: flex;
     justify-content: center;
-    align-content: center;
     background-color: #F6E07A;
     text-align: center;
     font: 1em georgia;
 }
 
-.abtImage
+.IconA
 {
     position: absolute;
-    top: 84%;
-    width: 40%;
-    left: 3%;
+    height: 60%;
+    max-width: 70%;
+    top: 5%;
+    right: 11%;
+}
+
+.Icon
+{
+    position: absolute;
+    height: 58%;
+    max-width: 70%;
+    top: 10%;
+}
+
+.Bio
+{
+    position: absolute;
+    text-align: center;
+    font: georgia;
+    bottom: 5%;
+}
+
+.Contact
+{
+    color: white;
+    position: absolute;
+    text-align: left;
+    font: georgia;
+    bottom: 0%;
 }

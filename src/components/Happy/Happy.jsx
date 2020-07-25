@@ -47,14 +47,14 @@ class Happy extends Component {
             </div>
 
             <div className="container align-items-center mt-5">
-              <div className="row mb-4">
+              <div className="row">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <a href="https://www.amazon.com/Its-All-Your-Head-Happiness/dp/0060760001" 
                              target="_blank"
                                rel="noopener noreferrer">
                             <img src="https://i.imgur.com/mR2EYgB.png" 
-                             alt="...." 
+                             alt="It's all in your head by Mark Levine and Stephen M.Polland" 
                              className="card-img-top rounded Big"/>
                             </a>
                         </div>
@@ -63,7 +63,7 @@ class Happy extends Component {
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <img src="https://i.imgur.com/4bUU6FM.png" 
-                            alt="...git pi" 
+                            alt="Today you are you, that is truer than true. There is no one alive who is youer than you. - Dr.Suess " 
                             className="card-img-top rounded"/>
                         </div>
                       </div>
@@ -82,7 +82,7 @@ class Happy extends Component {
                   </div>
 
 
-                  <div className="row mb-4">
+                  <div className="row">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <a href="https://yaqeeninstitute.org/yasienmohamed/the-idea-of-happiness-in-the-quran/" 
@@ -117,7 +117,7 @@ class Happy extends Component {
                     </div>
 
 
-                  <div className="row mb-4">
+                  <div className="row">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <a href="https://gretchenrubin.com/books/better-than-before/about-the-book/" 
@@ -156,7 +156,7 @@ class Happy extends Component {
                   </div>
 
 
-                  <div className="row mb-4">
+                  <div className="row">
                     <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <img src="https://i.imgur.com/74BUnzo.png" 
@@ -194,7 +194,7 @@ class Happy extends Component {
                     </div>
 
 
-                  <div className="row mb-4">
+                  <div className="row">
                   <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <Iframe url="https://www.youtube.com/embed?v=_R6R62qUgIs"  
@@ -219,7 +219,7 @@ class Happy extends Component {
                   </div>
 
 
-                  <div className="row mb-4">
+                  <div className="row">
                       <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <img src="https://i.imgur.com/XO8xPfz.png" 
@@ -245,7 +245,7 @@ class Happy extends Component {
                   </div>
 
 
-                  <div className="row mb-4">
+                  <div className="row">
                   <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <Iframe url="https://www.youtube.com/embed?v=kj-sfwmw9KM" 
@@ -274,7 +274,7 @@ class Happy extends Component {
                   </div>
 
 
-                  <div className="row mb-4">
+                  <div className="row">
                   <div className="col xl-4">
                     <div className="card img-fluid border border-white rounded">
                     <a href="https://yaqeeninstitute.org/omar-edward-moad/the-technology-of-happiness/" 
@@ -310,7 +310,7 @@ class Happy extends Component {
                   </div>
 
 
-                  <div className="row mb-4">
+                  <div className="row">
                   <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <img src="https://i.imgur.com/7YmLNQw.png" 
@@ -341,7 +341,7 @@ class Happy extends Component {
                   </div>
 
 
-                  <div className="row mb-4">
+                  <div className="row">
                   <div className="col xl-4">
                         <div className="card img-fluid border border-white rounded">
                             <a href="https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713" 

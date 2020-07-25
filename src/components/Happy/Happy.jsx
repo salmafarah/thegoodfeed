@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-// import Iframe from 'react-iframe';
+import Iframe from 'react-iframe';
 import { Link } from 'react-router-dom';
 
 
@@ -47,8 +47,8 @@ class Meh extends Component {
             </div>
 
             <div className="container align-items-center mt-5">
+              
               <div className="row">
-
               <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
               <div className="card border border-white rounded">
                 <a href="https://www.goodreads.com/book/show/57538.It_s_All_in_Your_Head?ac=1&from_search=true&qid=K8qlukoVRY&rank=1"
@@ -79,11 +79,10 @@ class Meh extends Component {
                        className="rounded card-img-top img-fluid"/>
                   </a>
               </div>
-              </div>
-                     
+              </div>    
               </div>
 
-              <div className="row">
+            <div className="row">
               
             <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
             <div className="card border border-white rounded">
@@ -110,23 +109,13 @@ class Meh extends Component {
                 <a href="https://yaqeeninstitute.org/omar-edward-moad/the-technology-of-happiness/" 
                    target="_blank"
                    rel="noopener noreferrer">
-                <img src="https://i.imgur.com/Lx14WLo.png" 
+                <img src="https://i.imgur.com/eDIzhsj.png" 
                      alt="The Technology of Happiness - Yaqeen Institute" 
                      className="rounded card-img-top img-fluid"/>
                </a>
             </div>
             </div>
-{/* 
-                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card border border-white rounded">
-                        <a href="https://psychcentral.com/blog/feeling-blah-this-might-be-why/" 
-                           target="_blank"
-                           rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/TqTDZV1.png" 
-                            alt="Feeling Blah this might be why" 
-                            className="rounded card-img-top img-fluid"/>
-                            </a>
-                        </div>*/}
+
             </div>
 
 
@@ -134,257 +123,210 @@ class Meh extends Component {
             
             <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
             <div className="card border border-white rounded">
-               <a href="https://lewishowes.com/podcast/welcome-to-the-school-of-greatness/" 
+               <a href="https://gretchenrubin.com/books/better-than-before/about-the-book/" 
                   target="_blank"
                   rel="noopener noreferrer">
-                <img src="https://i.imgur.com/SzhtdKv.png" 
-                     alt="The School of Greatness podcast" 
+                <img src="https://i.imgur.com/LO8IKvt.jpg" 
+                     alt="Better Than Before by Gretchen Rubin" 
                      className="rounded card-img-top img-fluid"/>
                 </a>
             </div>
             </div>
 
-                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card border border-white rounded">
-                            <a href="https://www.islamicfinanceguru.com/podcast/" 
-                               target="_blank"
-                               rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/l62ZGK2.png" 
-                                 alt="Millionaire Muslium" 
-                                 className="rounded card-img-top img-fluid"/>
-                            </a>
-                        </div>
-                        </div>
+            <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
+            <div className="card border border-white rounded">
+              <a href="https://www.psychologytoday.com/us/blog/click-here-happiness/201801/how-be-happy-23-ways-be-happier" 
+                 target="_blank"
+                 rel="noopener noreferrer">
+              <img src="https://i.imgur.com/pGZCUO5.png" 
+                   alt="How to Be Happy: 23 Ways to Be Happier" 
+                   className="rounded card-img-top img-fluid"/>
+              </a>
+            </div>
+            </div>
 
-                        <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card border border-white rounded">
-                            <a href="https://www.goodreads.com/book/show/17851885-i-am-malala?ac=1&from_search=true&qid=D7nGS6VChR&rank=1" 
-                             target="_blank"
-                               rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/BQqNNJV.jpg" 
-                             alt="I am Malala" 
-                             className="rounded card-img-top img-fluid"/>
-                            </a>
-                        </div>
-                      </div>
-                  </div>
+            <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
+            <div className="card border border-white rounded">
+                <a href="https://gretchenrubin.com/books/the-four-tendencies/intro/" 
+                   target="_blank"
+                   rel="noopener noreferrer">
+                <img src="https://i.imgur.com/FQE1o51.jpg" 
+                     alt="The Four Tendencies by Gretchen Rubin" 
+                     className="rounded card-img-top img-fluid"/>
+                </a>
+            </div>
+            </div>
 
-
-                  <div className="row">
-                    <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card border border-white rounded">
-                        <a href="https://www.al-islam.org/articles/death-beautiful-gift-believer" 
-                           target="_blank"
-                           rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/lOBXKBZ.png" 
-                            alt="Death: A beautiful Gift for a beliver" 
-                            className="rounded card-img-top img-fluid"/>
-                            </a>
-                        </div>
-                      </div>
-
-                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card border border-white rounded">
-                            <a href="https://www.goodreads.com/book/show/525197.In_The_Early_Hours?ac=1&from_search=true&qid=tjzTkHObTs&rank=1" 
-                            target="_blank"
-                            rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/PPTSUdD.jpg" 
-                                alt="Thriving at work" 
-                                className="rounded card-img-top img-fluid"/>
-                            </a>
-                        </div>
-                      </div>
-
-                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card border border-white rounded">
-                            <a href="https://www.soundvision.com/article/11-sayings-of-the-prophet-to-inspire-optimism" 
-                             target="_blank"
-                             rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/Y22MUL4.png" 
-                                alt="11 sayings of the prophet to inspire optimism" 
-                                className="rounded card-img-top img-fluid"/>
-                            </a>
-                        </div>
-                      </div>
-                    </div>
-
-                <div className="row">
-                <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card border border-white rounded">
-                            <a href="https://www.goodreads.com/book/show/50158142-healing-politics?ac=1&from_search=true&qid=AI3ivNSxRC&rank=1"
-                             target="_blank" 
-                             rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/6ykBwHm.jpg" 
-                            alt="Healing Politics" 
-                            className="rounded card-img-top img-fluid"/>
-                        </a>
-                        </div>
-                      </div>
-
-                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card border border-white rounded">
-                        <a href="https://www.goodreads.com/book/show/45443399-everything-is-fucked?ac=1&from_search=true&qid=mUJ2p11vzB&rank=1" 
-                           target="_blank"
-                           rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/SEwMzbF.png" 
-                            alt="Every thing is Fucked" 
-                            className="rounded card-img-top img-fluid"/>
-                            </a>
-                        </div>
-                      </div>
-
-                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card border border-white rounded">
-                        <a href="https://www.goodreads.com/book/show/44430409-prayers-of-the-pious?ac=1&from_search=true&qid=pNX92TQfkV&rank=1" 
-                           target="_blank"
-                           rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/vFTEHZS.png" 
-                            alt="Payers of the Pious" 
-                            className="rounded card-img-top img-fluid"/>
-                            </a>
-                        </div>
-                      </div>
-                  </div>
-
-                  <div className="row">
-                  <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card  border border-white rounded">
-                        <a href="https://www.goodreads.com/book/show/20726946-laughing-all-the-way-to-the-mosque?ac=1&from_search=true&qid=4mPM6pIRBQ&rank=1" 
-                            target="_blank"
-                            rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/gZX6h9V.jpg" 
-                                alt="Laughing All the Way to the Mosque" 
-                                className="rounded card-img-top img-fluid"/>
-                            </a>
-                        </div>
-                      </div>
-
-                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card border border-white rounded">
-                        <a href="https://www.goodreads.com/book/show/36589118-proud?ac=1&from_search=true&qid=jrRK5344MA&rank=2" 
-                            target="_blank"
-                            rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/vEEU9Lb.jpg" 
-                                alt="Proud: My Fight for an Unlikely American Dream" 
-                                className="rounded card-img-top img-fluid"/>
-                            </a>
-                        </div>
-                      </div>
-
-                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
-                        <div className="card border border-white rounded">
-                            <img src="https://i.imgur.com/oPsAIEc.png" 
-                            alt="Allah tests us with what we love" 
-                            className="rounded card-img-top img-fluid"/>
-                        </div>
-                      </div>
-                  </div>
+            </div>
 
 
-                  <div className="row">
-                  <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card border border-white rounded">
-                        <a href="hhttps://www.goodreads.com/book/show/25898620-threading-my-prayer-rug?ac=1&from_search=true&qid=PSlJshHPQ1&rank=2" 
-                            target="_blank"
-                            rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/8COfjy8.jpg" 
-                                alt="Threading my prayer Rug" 
-                                className="rounded card-img-top img-fluid"/>
-                            </a>
-                        </div>
-                      </div>
-        
-                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
-                        <div className="card border border-white rounded">
-                            <img src="https://i.imgur.com/ZGJY4h5.png" 
-                            alt="There is no beauty better than Intellect" 
-                            className="rounded card-img-top img-fluid"/>
-                        </div>
-                      </div>
+            <div className="row">
+     
+             <div className="col-12  col-sm-12 col-mb-4 col-lg-4  mb-4">
+             <div className="card border border-white rounded">
+                <Iframe url="https://www.youtube.com/embed/=_R6R62qUgIs" 
+                       className="rounded card-img-top img-fluid"/>
+             </div>
+             </div>
 
-                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card border border-white rounded">
-                        <a href="https://www.goodreads.com/book/show/432539.The_Sealed_Nectar_Biography_of_Prophet_Muhammad?ac=1&from_search=true&qid=hr8TKa5AQz&rank=1" 
-                            target="_blank"
-                            rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/YpN0Ip6.jpg" 
-                                alt="The Sealed Nectar Biography of Prophet Muhammed " 
-                                className="rounded card-img-top img-fluid"/>
-                            </a>
-                        </div>
-                      </div>
-                  </div>
+             <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
+             <div className="card border border-white rounded">
+               <img src="https://i.imgur.com/wJCUAvd.png" 
+                    alt="Today is the perfect day to be happy" 
+                    className="rounded card-img-top img-fluid"/>
+             </div>
+             </div>
 
+             <div className="col-12  col-sm-12 col-mb-4 col-lg-4  mb-4">
+             <div className="card border border-white rounded">
+                <Iframe url="https://www.youtube.com/embed/=pIhUUs28dj0" 
+                        className="rounded card-img-top img-fluid"/>
+             </div>
+             </div>
+            </div>
 
-                  <div className="row">
-                  <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card border border-white rounded">
-                            <a href="https://www.goodreads.com/book/show/3788053-three-cups-of-tea?ac=1&from_search=true&qid=KJvMU5Ver0&rank=2" 
-                             target="_blank"
-                            rel="noopener noreferrer">
-                                <img src="https://i.imgur.com/kjhyW0B.jpg" 
-                                alt="Three cups of tea by Sarah L.Thomson" 
-                                className="rounded card-img-top img-fluid"/>
-                            </a>
-                        </div>
-                      </div>
-                      
-                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card border border-white rounded">
-                        <a href="https://www.goodreads.com/book/show/51927994-this-is-what-america-looks-like?ac=1&from_search=true&qid=3JHjRtjz8U&rank=1" 
-                           target="_blank"
-                           rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/RxliAID.jpg" 
-                            alt="THis is what America Looks like by Ilhan Omar" 
-                            className="rounded card-img-top img-fluid"/>
-                            </a>
-                        </div>
-                      </div>
+             <div className="row">
+             <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
+             <div className="card border border-white rounded">
+                <img src="https://i.imgur.com/Qq6DtHz.png" 
+                     alt="Too often we underestimate the power of a touch, a smile, a kind word, a listening ear, an honest compliment, or the smallest act of caring, all of which have the potential to turn a life around." 
+                     className="rounded card-img-top img-fluid"/>
+              </div>
+              </div>
 
-                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                      <div className="card border border-white rounded">
-                            <a href="https://www.goodreads.com/book/show/714314.The_Autobiography_of_Malcom_X?ac=1&from_search=true&qid=wuJkuf0l9O&rank=1" 
-                            target="_blank"
-                             rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/CNlWjtd.jpg" 
-                            alt="The autobiography of MalcolmX" 
-                            className="rounded card-img-top img-fluid"/>
-                        </a>
-                        </div>
-                      </div>
-                  </div> 
+              <div className="col-12  col-sm-12 col-mb-4 col-lg-4  mb-4">
+              <div className="card border border-white rounded">
+                  <Iframe url="https://www.youtube.com/embed/=g3SO3Ej2G6E" 
+                          className="rounded card-img-top img-fluid"/>
+              </div>
+              </div>
 
+              <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
+              <div className="card border border-white rounded">
+                 <img src="https://i.imgur.com/SNPvEiB.png" 
+                      alt="Dua for today: Ya Allah, bless us with good health and prosperity. Bless us with happiness and contentment. Keep us steadfast, with sabr and shukr." 
+                      className="rounded card-img-top img-fluid"/>
+              </div>
+              </div>
+              </div>
 
-                  <div className="row">
-                  <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card border border-white rounded">
-                        <a href="https://www.goodreads.com/book/show/51321388-we-are-not-here-to-be-bystanders?ac=1&from_search=true&qid=WY2HXdqbx4&rank=2" 
-                         target="_blank"
-                         rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/V8Izlik.jpg" 
-                            alt="We are not here to be bystanders " 
-                            className="rounded card-img-top img-fluid"/>
-                            </a>
-                        </div>
-                      </div>
+              <div className="row">
+              <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
+              <div className="card  border border-white rounded">
+                <Iframe url="https://www.youtube.com/embed/=g3SO3Ej2G6E" 
+                        className="rounded card-img-top img-fluid"/>
+              </div>
+              </div>
+                        
+              <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
+              <div className="card border border-white rounded">
+                  <a href="https://www.goodreads.com/book/show/43822448-chicken-soup-for-the-soul?ac=1&from_search=true&qid=e9CMxuPt1H&rank=1" 
+                     target="_blank"
+                     rel="noopener noreferrer">
+                  <img src="https://i.imgur.com/4GVQSqX.png" 
+                       alt="Chicken Soup for the Soul: Think Positive, Live Happy: 101 Stories about Creating Your Best Life" 
+                       className="rounded card-img-top img-fluid"/>
+                  </a>
+              </div>
+              </div>
 
-                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card border border-white rounded">
-                        <a href="https://www.goodreads.com/book/show/81240.The_Meaning_of_the_Holy_Qur_an?ac=1&from_search=true&qid=L6sTeaeaoS&rank=1" 
-                           target="_blank"
-                           rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/uO2zfgc.jpg" 
-                            alt="The meaning of the Holy Quran" 
-                            className="rounded card-img-top img-fluid"/>
-                            </a>
-                        </div>
-                      </div>
+              <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
+              <div className="card  border border-white rounded">
+                <Iframe url="https://www.youtube.com/embed/=q42CHm2-tYw" 
+                        className="rounded card-img-top img-fluid"/>
+              </div>
+              </div>
+              </div>
+
+              <div className="row">
+              <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
+              <div className="card border border-white rounded">
+                 <img src="https://i.imgur.com/Ud2txvh.jpg" 
+                      alt="If you want other to be happy, practise compassion. If you want to be happy, practise happy." 
+                      className="rounded card-img-top img-fluid"/>
+              </div>
+              </div>
+
+              <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
+              <div className="card border border-white rounded">
+                  <a href="https://greatergood.berkeley.edu/podcasts/series/the_science_of_happiness" 
+                     target="_blank"
+                     rel="noopener noreferrer">
+                  <img src="https://i.imgur.com/nfbhiQh.png" 
+                       alt="The Science of Happiness | Greater Good" 
+                       className="rounded card-img-top img-fluid"/>
+                  </a>
+              </div>
+              </div>
+
+              <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
+              <div className="card border border-white rounded">
+                  <img src="https://i.imgur.com/AA6GdK2.png" 
+                       alt="If you want to be happy, be. - Leo Tolstoy" 
+                       className="rounded card-img-top img-fluid"/>
+              </div>
+              </div>
+
+              </div>
+
+              <div className="row">
+                 
+              <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
+              <div className="card border border-white rounded">
+                 <img src="https://i.imgur.com/NpgJpNn.png" 
+                      alt="If you want other to be happy, practise compassion. If you want to be happy, practise happy." 
+                      className="rounded card-img-top img-fluid"/>
+              </div>
+              </div>
+
+              <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
+              <div className="card border border-white rounded">
+                  <img src="https://i.imgur.com/7YmLNQw.png" 
+                       alt="The secret to being happy is accepting where you are in life and making the most out of everyday" 
+                       className="rounded card-img-top img-fluid"/>
+              </div> 
+              </div>
+
+              <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
+              <div className="card border border-white rounded">
+                  <a href="https://www.goodreads.com/book/show/2326098.The_How_of_Happiness?ac=1&from_search=true&qid=EAA3atyhgb&rank=1" 
+                     target="_blank"
+                     rel="noopener noreferrer">
+                  <img src="https://i.imgur.com/iAqm8ku.jpg" 
+                       alt="The How of Happiness: A Scientific Approach to Getting the Life You Want" 
+                       className="rounded card-img-top img-fluid"/>
+                  </a>
+              </div>
+              </div>
+              </div> 
+
+              <div className="row">
+                 
+              <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
+              <div className="card border border-white rounded">
+                 <img src="https://i.imgur.com/aNEMuAp.png" 
+                      alt="Happiness is the best makeup." 
+                      className="rounded card-img-top img-fluid"/>
+              </div>
+              </div>
+
+              <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
+              <div className="card border border-white rounded">
+                 <img src="https://i.imgur.com/DuJpjHP.png" 
+                      alt="Do what makes you happy." 
+                      className="rounded card-img-top img-fluid"/>
+              </div>
+              </div>
 
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
                         <div className="card border border-white rounded">
-                            <img src="https://i.imgur.com/X0xCgIT.png" 
-                            alt="Falling down is an accident; standing down is a choice" 
+                          <a href="https://www.goodreads.com/book/show/22571656-the-happiness-equation" 
+                             target="_blank"
+                             rel="noopener noreferrer">
+                            <img src="https://i.imgur.com/A2uHFxd.png" 
+                            alt="The Happiness Equation: Want Nothing + Do Anything = Have Everything by Neil Pasricha " 
                             className="rounded card-img-top img-fluid"/>
+                            </a>
                         </div>
                       </div>
                   </div>
@@ -393,35 +335,36 @@ class Meh extends Component {
                   <div className="row">
                   <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card border border-white rounded">
-                            <a href="https://www.goodreads.com/book/show/43261127-tiny-habits?ac=1&from_search=true&qid=MnBBRe1WaE&rank=1" 
+                            <a href="https://www.goodreads.com/book/show/15843166-you-are-a-badass" 
                              target="_blank"
                              rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/7cFSX8Y.png" 
-                            alt="Tiny habits: the small changes that change everything" 
+                            <img src="https://i.imgur.com/87UAQhP.png" 
+                            alt="You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life by Jen Sincero " 
                             className="rounded card-img-top img-fluid"/>
                         </a>
-                        </div>
-                      </div>
-
-                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
-                        <div className="card img-fluid border border-white rounded">
-                        <a href="https://www.goodreads.com/book/show/35840054-relentless-optimism?ac=1&from_search=true&qid=skdAxWlGFP&rank=1" 
-                           target="_blank"
-                           rel="noopener noreferrer">
-                            <img src="https://i.imgur.com/5wOYUtG.png" 
-                            alt="Relentless optimism by Darrin Donnelly" 
-                            className="rounded card-img-top img-fluid"/>
-                            </a>
                         </div>
                       </div>
 
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
                         <div className="card img-fluid border border-white rounded">
-                            <img src="https://i.imgur.com/pBQsOCD.png" 
-                            alt="The early bird cathes the worm but the second mouse gets the cheese" 
+                            <img src="https://i.imgur.com/Xl15xs5.png" 
+                            alt="Always believe something wonderful is about to happen" 
                             className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
+
+                      <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
+                        <div className="card img-fluid border border-white rounded">
+                        <a href="https://gretchenrubin.com/podcasts/" 
+                           target="_blank"
+                           rel="noopener noreferrer">
+                            <img src="https://i.imgur.com/xbx95Oa.png" 
+                            alt="Podcast: Happier by Gretchen Rubin" 
+                            className="rounded card-img-top img-fluid"/>
+                            </a>
+                        </div>
+                      </div>
+
                   </div>
                 </div>
               </div>

@@ -1,180 +1,39 @@
-.About
-{
-    height: 300px;
-    width: 900px;
+  .Background {
+    height: 150vh;
+    overflow:auto;
 }
 
-  .Background 
-{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 180vh;
-    position: relative;
-    background-image: url("https://imgur.com/xWgfN8C.jpg");
-    background-position: center;
-    background-size: cover;
-}
-
-.Bismillah
-{
+.Bismillah {
     font-size: 350%;
-    position: absolute;
-    top: 0%;
-    text-align: center;
     font-weight: 900;
-}
+} 
 
-.Alhamdulillah
-{
-    font-size: 500%;
-    position: absolute;
-    bottom: 4%;
-    text-align: center;
-    font-weight: 700;
-}
 
-.Tagline
-{
-    position: absolute;
-    top: 5%;
-    text-align: center;
+.Tagline {
     font-weight: 900;
     color: rgb(77, 55, 173);
     font: 3.5em copperplate;
 }
 
-.Info
-{
-    position: absolute;
-    top: 8%;
-    right: 5%;
-    left: 5%;
-    justify-content: center;
+.Info {
+font-weight: 500;
+font-size: 150%;
+
 }
 
-.Box 
-{
-    position: absolute;
-    right: 9%;
-    top: 11%;
-    width: 40%;
-    height: 60vh;
-    border-radius: 10px;
-    display: flex;
-    justify-content: center;
-    background-color: #daf3fe;
-    text-align: center;
-    font: 1em georgia;
+
+.Image {
+  height: 150%;
+  width: 100%;
 }
 
-.Image
-{
-    position: absolute;
-    top: 17%;
-    height: 23%;
-    width: 35%;
-    left: 10%;
-}
-
-.Team
-{
+.Team {
     font-weight: 900;
     font: 3em georgia-bold;
     font-size: 400%;
-    top: 54%;
 }
 
-.BoxA
-{
-    position: absolute;
-    right: 1%;
-    top: 56%;
-    width: 23%;
-    height: 50vh;
-    border-radius: 10px;
-    display: flex;
-    justify-content: center;
+.BoxA {
     background-color: #a8dcf3;
     text-align: center;
-    font: 1em georgia;
-}
-
-.BoxB
-{
-    position: absolute;
-    left: 1%;
-    top: 56%;
-    width: 23%;
-    height: 50vh;
-    border-radius: 10px;
-    display: flex;
-    justify-content: center;
-    background-color:#EDC9AF;
-    text-align: center;
-    font: 1em georgia;
-}
-
-.BoxC
-{
-    position: absolute;
-    right: 26%;
-    top: 56%;
-    width: 23%;
-    height: 50vh;
-    border-radius: 10px;
-    display: flex;
-    justify-content: center;
-    background-color: #b7afd4;
-    text-align: center;
-    font: 1em georgia;
-}
-
-.BoxD
-{
-    position: absolute;
-    left: 26%;
-    top: 56%;
-    width: 23%;
-    height: 50vh;
-    border-radius: 10px;
-    display: flex;
-    justify-content: center;
-    background-color: #F6E07A;
-    text-align: center;
-    font: 1em georgia;
-}
-
-.IconA
-{
-    position: absolute;
-    height: 56%;
-    max-width: 70%;
-    top: 5%;
-    right: 11%;
-}
-
-.Icon
-{
-    position: absolute;
-    height: 54%;
-    max-width: 70%;
-    top: 10%;
-}
-
-.Bio
-{
-    position: absolute;
-    text-align: center;
-    font: georgia;
-    bottom: 5%;
-}
-
-.Contact
-{
-    color: white;
-    position: absolute;
-    text-align: left;
-    font: georgia;
-    bottom: 0%;
 }

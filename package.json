@@ -1,6 +1,6 @@
 {
-  "homepage": "http://salmafarah.github.io/thegoodfeed",
   "name": "thegoodfeed",
+  "homepage": "http://salmafarah.github.io/thegoodfeed",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

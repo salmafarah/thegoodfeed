@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './App.css';
-import { BrowserRouter, Route } from 'react-router-dom';
+import { HashRouter, Route } from 'react-router-dom';
 import Nav from './components/Nav/Nav'; 
 import Footer from './components/Footer/Footer';
 import HomePage from './components/HomePage/HomePage';
@@ -15,11 +15,11 @@ import Anxiety from './components/Anxiety/Anxiety';
 class App extends Component {
   render(){
     return (
-      <BrowserRouter>
+      <HashRouter>
         <div className="App">
           <Nav/>            
           <Route
-              exact path={process.env.PUBLIC_URL + "/"}
+              exact path="/"
                 render={ props => (
                   <HomePage/>
                 )}
@@ -68,7 +68,7 @@ class App extends Component {
               />
           <Footer/>
         </div>
-      </BrowserRouter>
+      </HashRouter>
     );
   }
 }

@@ -15,7 +15,7 @@ import Anxiety from './components/Anxiety/Anxiety';
 class App extends Component {
   render(){
     return (
-      <HashRouter>
+      <HashRouter basename='/'>
         <div className="App">
           <Nav/>            
           <Route

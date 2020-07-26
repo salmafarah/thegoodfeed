@@ -15,9 +15,16 @@ import Anxiety from './components/Anxiety/Anxiety';
 class App extends Component {
   render(){
     return (
-      <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <BrowserRouter>
         <div className="App">
-          <Nav/>
+          <Nav/>            
+          <Route
+              exact path={process.env.PUBLIC_URL + "/"}
+                render={ props => (
+                  <HomePage/>
+                )}
+              />
+
             <Route
               exact path="/"
                 render={ props => (

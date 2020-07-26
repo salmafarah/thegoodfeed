@@ -1,68 +1,67 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# The Good Feed
+The Good Feed is a web application that is intended to be a resource to help those struggling with mental health, more specifically those who are Muslim. The app provides general mental health and Islamic resources in the form of a feed.
 
-## Available Scripts
+## Objective
+The Good Feed was created as a project for [Ummahacks](https://www.ummahacks.com/). 
 
-In the project directory, you can run:
+## Inspiration
+The Good Feed started as an idea to create a more positive feed in the age of social media and to eliminate the typical negative feelings that arise from using social media, such as comparison, being influenced, inadequacy, FOMO, suppressing your feelings, information overload, and feeling lost spiritually. We then expanded our original app idea to include mental health and islamic resources. We want users to leave this app feeling much better about themselves along with more hope and connection to their faith compared to the usage of other social media platforms.
 
-### `npm start`
+## Users
+Our user base consists of Muslims who speak English.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## What It Does
+The Good Feed is a web app that asks the user how they’re feeling that day in the form of a question on the home page. Once the user chooses an emotion emoji out of the six available options, they are taken to a new page that displays a grid of images that include quotes, books, podcasts, hadiths, ayahs (verses) from the Quran, and art pertaining to the emotion selected. An emotion navigation bar is also available on each emotion page that allows users to navigate to all of the others emotion pages within the app.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Built With
+HTML, CSS, React, Imgur, Lottie, Blush
 
-### `npm test`
+## How It Was Built
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Website Layout
+### Home Page
+![](https://i.imgur.com/IhUvZ4m.png)
 
-### `npm run build`
+### About Page
+![](https://i.imgur.com/nreF0xL.png)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Anxious Page
+![](https://i.imgur.com/eduJ5T8.png)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### Happy Page
+![](https://i.imgur.com/aGjyUsO.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Angry Page
+![](https://i.imgur.com/YRA8JpN.png)
 
-### `npm run eject`
+### Sad Page
+![](https://i.imgur.com/1cTKj6c.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Fear Page
+![](https://i.imgur.com/QEB0663.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Meh Page
+![](https://i.imgur.com/X745xa2.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+None of the images or resources used belong to us and all credit is given to the content creators.
 
-## Learn More
+## Challenges
+- 2/4 members of our team had never used Git and GitHub before 
+- 3/4 members of our team had never used React
+- We lived in different timezones: 2/4 members of our team is in EST timezone and 2/4 members of our team is in PST timezone
+- 2/4 members of our team had jobs and 1/4 members of our team was taking summer classes
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Accomplishments
+- Despite our levels of experience, we were all able to contribute to this project while teaching each other throughout the process.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Things We Learned
+- We all learned and gained experience executing the general git workflow.
+- We all learned how to successfully deal with merge conflicts.
+- We all were able to learn and create a basic project using React.
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Next Steps and Goals
+We plan on adding more features in the future, such as the following:
+1. Use a database, rather than Imgur, to store images, which will allow the creation of a more dynamic feed.
+2. Rather than loading a new page for every emotion, have one page that loads the appropriate emotion grid without reloading the whole page.
+3. Add a “Resources” tab to include mental health organizations that cater to the general public and Muslims in the West after they’ve been vetted.

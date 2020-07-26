@@ -27,7 +27,7 @@ class QuestionSection extends Component {
                         <div className="row mb-3 mt-4 justify-content-center">
                           <div className="col-5">
                           <Link to='/anxiety'><AnxiteyLottie/></Link>
-                          <p className="QuestionText"> Anxitey</p>
+                          <p className="QuestionText"> Anxious</p>
                           </div>
                           <div className="col-5">
                           <Link to='/happy'> <HappyLottie/></Link>

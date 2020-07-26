@@ -24,14 +24,6 @@ class App extends Component {
                   <HomePage/>
                 )}
               />
-
-            <Route
-              exact path="/"
-                render={ props => (
-                  <HomePage/>
-                )}
-              />
-
               <Route
               path="/about"
                 render={ props => (

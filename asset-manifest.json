@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/thegoodfeed/static/css/main.61fef3aa.chunk.css",
-    "main.js": "/thegoodfeed/static/js/main.5bd43ee3.chunk.js",
-    "main.js.map": "/thegoodfeed/static/js/main.5bd43ee3.chunk.js.map",
+    "main.js": "/thegoodfeed/static/js/main.a29c7ded.chunk.js",
+    "main.js.map": "/thegoodfeed/static/js/main.a29c7ded.chunk.js.map",
     "runtime-main.js": "/thegoodfeed/static/js/runtime-main.7b2c69cc.js",
     "runtime-main.js.map": "/thegoodfeed/static/js/runtime-main.7b2c69cc.js.map",
-    "static/js/2.eeee31d8.chunk.js": "/thegoodfeed/static/js/2.eeee31d8.chunk.js",
-    "static/js/2.eeee31d8.chunk.js.map": "/thegoodfeed/static/js/2.eeee31d8.chunk.js.map",
+    "static/js/2.1827617e.chunk.js": "/thegoodfeed/static/js/2.1827617e.chunk.js",
+    "static/js/2.1827617e.chunk.js.map": "/thegoodfeed/static/js/2.1827617e.chunk.js.map",
     "index.html": "/thegoodfeed/index.html",
-    "precache-manifest.dcbaa3c8995ff22633e4930dd0cf2102.js": "/thegoodfeed/precache-manifest.dcbaa3c8995ff22633e4930dd0cf2102.js",
+    "precache-manifest.5d1540a49796029e0f702fd85862a8b6.js": "/thegoodfeed/precache-manifest.5d1540a49796029e0f702fd85862a8b6.js",
     "service-worker.js": "/thegoodfeed/service-worker.js",
     "static/css/main.61fef3aa.chunk.css.map": "/thegoodfeed/static/css/main.61fef3aa.chunk.css.map",
-    "static/js/2.eeee31d8.chunk.js.LICENSE.txt": "/thegoodfeed/static/js/2.eeee31d8.chunk.js.LICENSE.txt"
+    "static/js/2.1827617e.chunk.js.LICENSE.txt": "/thegoodfeed/static/js/2.1827617e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7b2c69cc.js",
-    "static/js/2.eeee31d8.chunk.js",
+    "static/js/2.1827617e.chunk.js",
     "static/css/main.61fef3aa.chunk.css",
-    "static/js/main.5bd43ee3.chunk.js"
+    "static/js/main.a29c7ded.chunk.js"
   ]
 }

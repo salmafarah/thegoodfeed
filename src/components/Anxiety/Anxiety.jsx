@@ -6,41 +6,41 @@ import { Link } from 'react-router-dom';
 class Anxiety extends Component {
     render(){
         return(
-          <div class="container">
-          <div class="emojiNavBar">
-            <div class="emoji selectedEmoji">
+          <div className="container">
+          <div className="emojiNavBar">
+            <div className="emoji selectedEmoji">
               <Link to="/anxiety" style={{ textDecoration: 'none' }}>
-                <img src="https://imgur.com/cDXx3RL.jpg" alt="anxietyEmoji" class="emojiImg" />
+                <img src="https://imgur.com/cDXx3RL.jpg" alt="anxietyEmoji" className="emojiImg" />
                 <p>Anxious</p>
               </Link>
             </div>
-            <div class="emoji">
+            <div className="emoji">
               <Link to="/happy" style={{ textDecoration: 'none' }}>
-                <img src="https://imgur.com/a19PgPn.jpg" alt="happyEmoji" class="emojiImg" />
+                <img src="https://imgur.com/a19PgPn.jpg" alt="happyEmoji" className="emojiImg" />
                 <p>Happy</p>
               </Link>
             </div>
-            <div class="emoji">
+            <div className="emoji">
               <Link to="/angry" style={{ textDecoration: 'none' }}>
-                <img src="https://imgur.com/Wm7bH2r.jpg" alt="angryEmoji" class="emojiImg" />
+                <img src="https://imgur.com/Wm7bH2r.jpg" alt="angryEmoji" className="emojiImg" />
                 <p>Angry</p>
               </Link>
             </div>
-            <div class="emoji">
+            <div className="emoji">
               <Link to="/sad" style={{ textDecoration: 'none' }}>
-                <img src="https://imgur.com/4bTQhis.jpg" alt="sadEmoji" class="emojiImg" />
+                <img src="https://imgur.com/4bTQhis.jpg" alt="sadEmoji" className="emojiImg" />
                 <p>Sad</p>
               </Link>
             </div>
-            <div class="emoji">
+            <div className="emoji">
               <Link to="/fear" style={{ textDecoration: 'none' }}>
-                <img src="https://imgur.com/BQtaQJm.jpg" alt="fearEmoji" class="emojiImg" />
+                <img src="https://imgur.com/BQtaQJm.jpg" alt="fearEmoji" className="emojiImg" />
                 <p>Fear</p>
               </Link>
             </div>
-            <div class="emoji">
+            <div className="emoji">
               <Link to="/meh" style={{ textDecoration: 'none' }}>
-                <img src="https://imgur.com/QQV4kCY.jpg" alt="mehEmoji" class="emojiImg" />
+                <img src="https://imgur.com/QQV4kCY.jpg" alt="mehEmoji" className="emojiImg" />
                 <p>Meh</p>
               </Link>
             </div>
@@ -103,7 +103,7 @@ class Anxiety extends Component {
                       </div>
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
                         <div className="card border border-white rounded">
-                        <img src="https://imgur.com/31grm9a.jpg" alt="chibird.com Comic" className="rounded card-img-top img-fluid"/>
+                        <img src="https://imgur.com/mjmNp1I.jpg" alt="chibird.com Comic" className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
                   </div>
@@ -163,7 +163,7 @@ class Anxiety extends Component {
                       </div>
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
                         <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/cOZcTsC.jpg" alt="How to deal with Stress and Anxiety" className="rounded card-img-top img-fluid"/>
+                        <img src="https://imgur.com/IhRjhNi.jpg" alt="tiny buddha Quote" className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
                   </div>
@@ -199,7 +199,7 @@ class Anxiety extends Component {
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 Big mb-4">
                         <div className="card border border-white rounded">
                         <a href="https://www.anxietyslayer.com/journal" target="_blank" rel="noopener noreferrer">
-                        <img src="https://imgur.com/0Vpr8IC.jpg" alt="Anxiety Slayer Podcast" className="rounded card-img-top img-fluid Big"/></a>
+                        <img src="https://imgur.com/BdcvkwZ.jpg" alt="Anxiety Slayer Podcast" className="rounded card-img-top img-fluid Big"/></a>
                         </div>
                       </div>
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
@@ -225,7 +225,7 @@ class Anxiety extends Component {
                       </div>
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
                         <div className="card border border-white rounded">
-                        <img src="https://imgur.com/NOWGpEC.jpg" alt="I Can Control Doodle" className="rounded card-img-top img-fluid"/>
+                        <img src="https://imgur.com/O1nhsfS.jpg" alt="I Can Control Doodle" className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
                   </div>

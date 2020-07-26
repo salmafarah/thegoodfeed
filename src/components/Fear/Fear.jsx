@@ -7,41 +7,41 @@ import { Link } from 'react-router-dom';
 class Fear extends Component {
     render(){
         return(
-          <div class="container">
-            <div class="emojiNavBar">
-              <div class="emoji">
+          <div className="container">
+            <div className="emojiNavBar">
+              <div className="emoji">
                 <Link to="/anxiety" style={{ textDecoration: 'none' }}>
-                  <img src="https://imgur.com/cDXx3RL.jpg" alt="anxietyEmoji" class="emojiImg" />
+                  <img src="https://imgur.com/cDXx3RL.jpg" alt="anxietyEmoji" className="emojiImg" />
                   <p>Anxious</p>
                 </Link>
               </div>
-              <div class="emoji">
+              <div className="emoji">
                 <Link to="/happy" style={{ textDecoration: 'none' }}>
-                  <img src="https://imgur.com/a19PgPn.jpg" alt="happyEmoji" class="emojiImg" />
+                  <img src="https://imgur.com/a19PgPn.jpg" alt="happyEmoji" className="emojiImg" />
                   <p>Happy</p>
                 </Link>
               </div>
-              <div class="emoji">
+              <div className="emoji">
                 <Link to="/angry" style={{ textDecoration: 'none' }}>
-                  <img src="https://imgur.com/Wm7bH2r.jpg" alt="angryEmoji" class="emojiImg" />
+                  <img src="https://imgur.com/Wm7bH2r.jpg" alt="angryEmoji" className="emojiImg" />
                   <p>Angry</p>
                 </Link>
               </div>
-              <div class="emoji">
+              <div className="emoji">
                 <Link to="/sad" style={{ textDecoration: 'none' }}>
-                  <img src="https://imgur.com/4bTQhis.jpg" alt="sadEmoji" class="emojiImg" />
+                  <img src="https://imgur.com/4bTQhis.jpg" alt="sadEmoji" className="emojiImg" />
                   <p>Sad</p>
                 </Link>
               </div>
-              <div class="emoji selectedEmoji">
+              <div className="emoji selectedEmoji">
                 <Link to="/fear" style={{ textDecoration: 'none' }}>
-                  <img src="https://imgur.com/BQtaQJm.jpg" alt="fearEmoji" class="emojiImg" />
+                  <img src="https://imgur.com/BQtaQJm.jpg" alt="fearEmoji" className="emojiImg" />
                   <p>Fear</p>
                 </Link>
               </div>
-              <div class="emoji">
+              <div className="emoji">
                 <Link to="/meh" style={{ textDecoration: 'none' }}>
-                  <img src="https://imgur.com/QQV4kCY.jpg" alt="mehEmoji" class="emojiImg" />
+                  <img src="https://imgur.com/QQV4kCY.jpg" alt="mehEmoji" className="emojiImg" />
                   <p>Meh</p>
                 </Link>
               </div>

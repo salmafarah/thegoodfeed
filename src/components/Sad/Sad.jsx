@@ -6,41 +6,41 @@ import { Link } from 'react-router-dom';
 class Sad extends Component {
     render(){
         return(
-          <div class="container">
-            <div class="emojiNavBar">
-              <div class="emoji">
+          <div className="container">
+            <div className="emojiNavBar">
+              <div className="emoji">
                 <Link to="/anxiety" style={{ textDecoration: 'none' }}>
-                  <img src="https://imgur.com/cDXx3RL.jpg" alt="anxietyEmoji" class="emojiImg" />
+                  <img src="https://imgur.com/cDXx3RL.jpg" alt="anxietyEmoji" className="emojiImg" />
                   <p>Anxious</p>
                 </Link>
               </div>
-              <div class="emoji">
+              <div className="emoji">
                 <Link to="/happy" style={{ textDecoration: 'none' }}>
-                  <img src="https://imgur.com/a19PgPn.jpg" alt="happyEmoji" class="emojiImg" />
+                  <img src="https://imgur.com/a19PgPn.jpg" alt="happyEmoji" className="emojiImg" />
                   <p>Happy</p>
                 </Link>
               </div>
-              <div class="emoji">
+              <div className="emoji">
                 <Link to="/angry" style={{ textDecoration: 'none' }}>
-                  <img src="https://imgur.com/Wm7bH2r.jpg" alt="angryEmoji" class="emojiImg" />
+                  <img src="https://imgur.com/Wm7bH2r.jpg" alt="angryEmoji" className="emojiImg" />
                   <p>Angry</p>
                 </Link>
               </div>
-              <div class="emoji selectedEmoji">
+              <div className="emoji selectedEmoji">
                 <Link to="/sad" style={{ textDecoration: 'none' }}>
-                  <img src="https://imgur.com/4bTQhis.jpg" alt="sadEmoji" class="emojiImg" />
+                  <img src="https://imgur.com/4bTQhis.jpg" alt="sadEmoji" className="emojiImg" />
                   <p>Sad</p>
                 </Link>
               </div>
-              <div class="emoji">
+              <div className="emoji">
                 <Link to="/fear" style={{ textDecoration: 'none' }}>
-                  <img src="https://imgur.com/BQtaQJm.jpg" alt="fearEmoji" class="emojiImg" />
+                  <img src="https://imgur.com/BQtaQJm.jpg" alt="fearEmoji" className="emojiImg" />
                   <p>Fear</p>
                 </Link>
               </div>
-              <div class="emoji">
+              <div className="emoji">
                 <Link to="/meh" style={{ textDecoration: 'none' }}>
-                  <img src="https://imgur.com/QQV4kCY.jpg" alt="mehEmoji" class="emojiImg" />
+                  <img src="https://imgur.com/QQV4kCY.jpg" alt="mehEmoji" className="emojiImg" />
                   <p>Meh</p>
                 </Link>
               </div>
@@ -91,7 +91,7 @@ class Sad extends Component {
                   <div className="row">
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
                         <div className="card border border-white rounded">
-                        <img src="https://imgur.com/0ugBQDD.jpg" alt="Quran Verse (2:286)" className="rounded card-img-top img-fluid"/>
+                        <img src="https://imgur.com/zgXJM96.jpg" alt="Tough Dua" className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
@@ -102,7 +102,7 @@ class Sad extends Component {
                       </div>
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
                         <div className="card border border-white rounded">
-                        <img src="https://imgur.com/BZThqeX.jpg" alt="Tough Dua" className="rounded card-img-top img-fluid"/>
+                        <img src="https://imgur.com/xriDxn8.jpg" alt="Quran Verse (2:286)" className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
                   </div>
@@ -116,7 +116,7 @@ class Sad extends Component {
                       </div>
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
                         <div className="card border border-white rounded">
-                       <img src="https://imgur.com/TR1tSZY.jpg" alt="Lilly Singh Quote" className="rounded card-img-top img-fluid"/>
+                       <img src="https://imgur.com/1EiwLCU.jpg" alt="Bob Goff Quote" className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
@@ -176,7 +176,7 @@ class Sad extends Component {
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card border border-white rounded">
                         <a href="https://www.apa.org/research/action/speaking-of-psychology" target="_blank" rel="noopener noreferrer"> 
-                        <img src="https://imgur.com/Yk9B253.jpg" alt="Speaking of Psychology Podcast" className="rounded card-img-top img-fluid"/></a>
+                        <img src="https://imgur.com/IKQXKH0.jpg" alt="Speaking of Psychology Podcast" className="rounded card-img-top img-fluid"/></a>
                         </div>
                       </div>
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">

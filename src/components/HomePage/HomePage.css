@@ -6,7 +6,6 @@
     background-repeat: no-repeat, repeat; 
     background-size: 34% 80% ,cover ; 
     margin-bottom: 20px; 
-    border: 5px solid green;
 }
 
 .QuestionTitle {
@@ -50,7 +49,6 @@
         background-repeat:  repeat; 
         background-size: cover ; 
         margin-bottom: 20px; 
-        border: 5px solid green;
     }
     .QuestionTitle {
         font-size: 100%;
@@ -69,7 +67,6 @@
         background-repeat: no-repeat, repeat; 
         background-size: 34% 80% ,cover ; 
         margin-bottom: 20px; 
-        border: 5px solid green;
     }
     .QuestionTitle {
         font-size: 230%;
@@ -107,7 +104,6 @@
         background-repeat: no-repeat, repeat; 
         background-size: 34% 80% ,cover ; 
         margin-bottom: 20px; 
-        border: 5px solid green;
     }
    }
 
@@ -160,7 +156,6 @@
         background-repeat: repeat; 
         background-size: cover ; 
         margin-bottom: 20px; 
-        border: 5px solid green;
     }
    }
 

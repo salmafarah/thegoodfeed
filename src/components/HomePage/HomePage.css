@@ -1,5 +1,5 @@
 .Wraper {
-    height: 150vh;
+    height: 120vh;
     position: relative;
     background: url("https://imgur.com/CDKqZSv.jpg"), url("https://imgur.com/xWgfN8C.jpg");
     background-position: left bottom,center ;
@@ -8,8 +8,8 @@
     margin-bottom: 20px; 
 }
 
-.QuestionTitle {
-    font-size: 300%;
+.card-title {
+   font-size: 3vw;
     font-weight: 900;
 }
 
@@ -50,10 +50,7 @@
         background-size: cover ; 
         margin-bottom: 20px; 
     }
-    .QuestionTitle {
-        font-size: 100%;
-        font-weight: 900;
-    }
+
 
  }
 
@@ -65,13 +62,10 @@
         background: url("https://imgur.com/CDKqZSv.jpg"), url("https://imgur.com/xWgfN8C.jpg");
         background-position: left bottom,center ;
         background-repeat: no-repeat, repeat; 
-        background-size: 34% 80% ,cover ; 
+        background-size: 50% 60% ,cover ; 
         margin-bottom: 20px; 
     }
-    .QuestionTitle {
-        font-size: 230%;
-        font-weight: 900;
-    }
+
     .Width {
         width: 100%; 
     }
@@ -85,16 +79,13 @@
         font-size: 350%;
         line-height: 1.2; 
     }
-    .QuestionTitle {
-        font-size: 250%;
-        font-weight: 900;
-    }
+
     .Width {
         width: 75%
     }
    }
 
-  @media screen and (max-width: 867px) { 
+  @media screen and (max-width: 988px) { 
 
     .Wraper {
         height: 150vh;
@@ -105,21 +96,28 @@
         background-size: 34% 80% ,cover ; 
         margin-bottom: 20px; 
     }
-   }
+    .card-title {
+        font-size: 200%;
+         font-weight: 900;
+     }
 
-   @media screen and (max-width: 1650px) { 
+}
+
+   @media screen and (min-width: 1615px) and (max-width: 1686px){ 
     .HomePageTag {
         font-weight: 900;
         color: rgb(77, 55, 173);
         font-size: 350%;
         line-height: 1.2; 
     }
-    .QuestionTitle {
-        font-size: 230%;
-        font-weight: 900;
-    }
+    .card-title {
+        font-size: 1vh;
+         font-weight: 900;
+     }
+
    }
-   
+
+
    @media screen and (max-width: 1500px) { 
     .HomePageTag {
         font-weight: 900;
@@ -127,10 +125,7 @@
         font-size: 350%;
         line-height: 1.2; 
     }
-    .QuestionTitle {
-        font-size: 190%;
-        font-weight: 900;
-    }
+
    }
 
    @media screen and (max-width: 375px) { 
@@ -144,10 +139,7 @@
     .Width {
         width: 100%;
     }
-    .QuestionText {
-        font-size: 130%;
-        font-weight: 900;
-    }
+
     .Wraper {
         height: 120vh;
         position: relative;
@@ -157,14 +149,11 @@
         background-size: cover ; 
         margin-bottom: 20px; 
     }
+    .card-title {
+        font-size: 150%;
+         font-weight: 900;
+     }
    }
 
-@media screen and (min-width: 1241px) and (max-width: 1300px) { 
-    .QuestionTitle {
-        font-size: 170%;
-        font-weight: 900;
-    }
 
-
-   }
 

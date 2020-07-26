@@ -14,54 +14,53 @@ class QuestionSection extends Component {
  
     render(){
         return(
-            <div className="Wrap">
-              <img src="https://imgur.com/CDKqZSv.jpg" alt="Phone img" className="HomePageimg"/>
-              <p className="TagLine1"> Curating a more positive</p>
-              <p className="TagLine2"> social media feed</p>
+            <div className="Wraper">
+              <div className="container-fluid">
+               <div className="row">
+                  <div className="col-12 col-md-6 col-lg-6">
+                  <p className="HomePageTag border-0 text-wrap">Curating a more positive social media feed</p>
+                  </div>
+                <div className="col-12 col-md-6 col-lg-6 justify-content-center d-flex align-items-center text-center">
+                <div className="card h-100 border-0 shadow-lg mt-5 Width">
+                      <div className="card-body QuestionBox rounded">
+                        <h1 className="card-title QuestionTitle">How Are You Feeling ?</h1>
+                        <div className="row mb-3 mt-4 justify-content-center">
+                          <div className="col-5">
+                          <Link to='/anxiety'><AnxiteyLottie/></Link>
+                          <p className="QuestionText"> Anxitey</p>
+                          </div>
+                          <div className="col-5">
+                          <Link to='/happy'> <HappyLottie/></Link>
+                          <p className="QuestionText"> Happy</p>
+                          </div>
+                        </div>
 
-              <div className="shadow-lg EmotionBox">
-               <div className="container text-center">
+                        <div className="row mb-3 justify-content-center">
+                          <div className="col-5">
+                          <Link to='/angry'> <AngryLottie/></Link>
+                          <p className="QuestionText"> Anger</p>
+                          </div>
+                          <div className="col-5">
+                          <Link to='/sad'> <SadLottie/></Link>
+                          <p className="QuestionText"> Sad</p>
+                          </div>
+                        </div>
 
-               <div className="row  text-center">
-                  <div className="col-sm-12">
-                  <p className="text-center mt-3 QuestionText"> How are you feeling?</p>
+                        <div className="row mb-3 justify-content-center">
+                          <div className="col-5">
+                          <Link to='/fear'> <FearLottie/> </Link>
+                          <p className="QuestionText"> Fearful</p>
+                          </div>
+                          <div className="col-5">
+                          <Link to='/meh'> <MehLottie/></Link>
+                          <p className="QuestionText"> Meh</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
-
-                <div className="row justify-content-center">
-                  <div className=" col-4 col-md-4 mr-4 EmotionCol">
-                   <Link to='/anxiety'><AnxiteyLottie/></Link>
-                    <p className="HomepageText"> Anxious</p>
-                  </div>
-                  <div className="col-4 col-md-4 mt-2 EmotionCol">
-                  <Link to='/happy'> <HappyLottie/></Link>
-                  <p className="HomepageText">  Happy</p>
-                  </div>
-                  </div>
-
-                  <div className="row justify-content-center">
-                  <div className=" col-4 col-md-4 mr-4 EmotionCol">
-                  <Link to='/angry'> <AngryLottie/></Link>
-                    <p className="HomepageText mt-2"> Angry</p>
-                  </div>
-                  <div className=" col-4 col-md-4 EmotionCol">
-                  <Link to='/sad'> <SadLottie/></Link>
-                  <p className="HomepageText mt-2"> Sad</p>
-                  </div>
-                  </div>
-
-                  <div className="row justify-content-center">
-                  <div className=" col-4 col-md-4 mr-4 EmotionCol">
-                  <Link to='/fear'> <FearLottie/> </Link>
-                    <p className="HomepageText mt-2"> Fearful</p>
-                  </div>
-                  <div className=" col-4 col-md-4 EmotionCol">
-                  <Link to='/meh'> <MehLottie/></Link>
-                  <p className="HomepageText mt-2"> Meh</p>
-                  </div>
             </div>
-          </div>
-          </div>
           </div>
       
         );

@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './App.css';
-import { BrowserRouter, Route } from 'react-router-dom';
+import { HashRouter, Route } from 'react-router-dom';
 import Nav from './components/Nav/Nav'; 
 import Footer from './components/Footer/Footer';
 import HomePage from './components/HomePage/HomePage';
@@ -15,7 +15,7 @@ import Anxiety from './components/Anxiety/Anxiety';
 class App extends Component {
   render(){
     return (
-      <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <HashRouter>
         <div className="App">
           <Nav/>
             <Route
@@ -24,6 +24,7 @@ class App extends Component {
                   <HomePage/>
                 )}
               />
+
               <Route
               path="/about"
                 render={ props => (
@@ -68,7 +69,7 @@ class App extends Component {
               />
           <Footer/>
         </div>
-      </BrowserRouter>
+      </HashRouter>
     );
   }
 }

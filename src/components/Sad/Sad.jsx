@@ -91,7 +91,7 @@ class Sad extends Component {
                   <div className="row">
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
                         <div className="card border border-white rounded">
-                        <img src="https://imgur.com/0ugBQDD.jpg" alt="Quran Verse (2:286)" className="rounded card-img-top img-fluid"/>
+                        <img src="https://imgur.com/zgXJM96.jpg" alt="Tough Dua" className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
@@ -102,7 +102,7 @@ class Sad extends Component {
                       </div>
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
                         <div className="card border border-white rounded">
-                        <img src="https://imgur.com/BZThqeX.jpg" alt="Tough Dua" className="rounded card-img-top img-fluid"/>
+                        <img src="https://imgur.com/xriDxn8.jpg" alt="Quran Verse (2:286)" className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
                   </div>
@@ -116,7 +116,7 @@ class Sad extends Component {
                       </div>
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
                         <div className="card border border-white rounded">
-                       <img src="https://imgur.com/TR1tSZY.jpg" alt="Lilly Singh Quote" className="rounded card-img-top img-fluid"/>
+                       <img src="https://imgur.com/1EiwLCU.jpg" alt="Bob Goff Quote" className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
@@ -176,7 +176,7 @@ class Sad extends Component {
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4 Big">
                         <div className="card border border-white rounded">
                         <a href="https://www.apa.org/research/action/speaking-of-psychology" target="_blank" rel="noopener noreferrer"> 
-                        <img src="https://imgur.com/Yk9B253.jpg" alt="Speaking of Psychology Podcast" className="rounded card-img-top img-fluid"/></a>
+                        <img src="https://imgur.com/IKQXKH0.jpg" alt="Speaking of Psychology Podcast" className="rounded card-img-top img-fluid"/></a>
                         </div>
                       </div>
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">

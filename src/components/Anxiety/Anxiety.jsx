@@ -103,7 +103,7 @@ class Anxiety extends Component {
                       </div>
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
                         <div className="card border border-white rounded">
-                        <img src="https://imgur.com/31grm9a.jpg" alt="chibird.com Comic" className="rounded card-img-top img-fluid"/>
+                        <img src="https://imgur.com/mjmNp1I.jpg" alt="chibird.com Comic" className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
                   </div>
@@ -163,7 +163,7 @@ class Anxiety extends Component {
                       </div>
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
                         <div className="card img-fluid border border-white rounded">
-                        <img src="https://imgur.com/cOZcTsC.jpg" alt="How to deal with Stress and Anxiety" className="rounded card-img-top img-fluid"/>
+                        <img src="https://imgur.com/IhRjhNi.jpg" alt="tiny buddha Quote" className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
                   </div>
@@ -199,7 +199,7 @@ class Anxiety extends Component {
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 Big mb-4">
                         <div className="card border border-white rounded">
                         <a href="https://www.anxietyslayer.com/journal" target="_blank" rel="noopener noreferrer">
-                        <img src="https://imgur.com/0Vpr8IC.jpg" alt="Anxiety Slayer Podcast" className="rounded card-img-top img-fluid Big"/></a>
+                        <img src="https://imgur.com/BdcvkwZ.jpg" alt="Anxiety Slayer Podcast" className="rounded card-img-top img-fluid Big"/></a>
                         </div>
                       </div>
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
@@ -225,7 +225,7 @@ class Anxiety extends Component {
                       </div>
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 mb-4">
                         <div className="card border border-white rounded">
-                        <img src="https://imgur.com/NOWGpEC.jpg" alt="I Can Control Doodle" className="rounded card-img-top img-fluid"/>
+                        <img src="https://imgur.com/O1nhsfS.jpg" alt="I Can Control Doodle" className="rounded card-img-top img-fluid"/>
                         </div>
                       </div>
                   </div>

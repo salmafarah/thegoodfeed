@@ -52,7 +52,7 @@ class Fear extends Component {
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 Big mb-4">
                       <div className="card border border-white rounded">
                         <a href="https://productivemuslim.com/3-powerful-tips-to-overcome-fear/" target="_blank" rel="noopener noreferrer">
-                          <img src="https://imgur.com/WTnIyVW.jpg" alt="3 Powerful Tips to Overcome Fear" className="rounded card-img-top img-fluid"/>
+                          <img src="https://imgur.com/YAMbaQr.jpg" alt="3 Powerful Tips to Overcome Fear" className="rounded card-img-top img-fluid"/>
                         </a>
                      </div>
                    
@@ -78,7 +78,7 @@ class Fear extends Component {
                       <div className="col-12 col-sm-12 col-mb-4 col-lg-4 col-xl-4 Big mb-4">
                         <div className="card border border-white rounded card-img-top1">
                         <a href="https://www.psychologytoday.com/ca/blog/insight-therapy/201009/overcoming-fear-the-only-way-out-is-through" target="_blank" rel="noopener noreferrer">
-                          <img src="https://imgur.com/j19U8kl.jpg" alt="The only way out through" className="rounded card-img-top img-fluid"/>
+                          <img src="https://imgur.com/qh1r61b.jpg" alt="The only way out through" className="rounded card-img-top img-fluid"/>
                         </a>
                         </div>
                       </div>

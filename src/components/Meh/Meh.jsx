@@ -35,7 +35,7 @@ class Meh extends Component {
               <div className="emoji">
                 <Link to="/fear" style={{ textDecoration: 'none' }}>
                   <img src="https://imgur.com/BQtaQJm.jpg" alt="fearEmoji" className="emojiImg" />
-                  <p>Fear</p>
+                  <p>Fearful</p>
                 </Link>
               </div>
               <div className="emoji selectedEmoji">

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "27cdfa263b719000905fc6b065427ec0",
+    "revision": "bc0af5fced10be1f1a8bc8d573603928",
     "url": "/thegoodfeed/index.html"
   },
   {
-    "revision": "514f6d9563ca5443a917",
+    "revision": "e85ab18e5d06ed228756",
     "url": "/thegoodfeed/static/css/main.61fef3aa.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thegoodfeed/static/js/2.1827617e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "514f6d9563ca5443a917",
-    "url": "/thegoodfeed/static/js/main.3ca47288.chunk.js"
+    "revision": "e85ab18e5d06ed228756",
+    "url": "/thegoodfeed/static/js/main.89ddd404.chunk.js"
   },
   {
     "revision": "2996187a5edb2d2888c8",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/thegoodfeed/static/css/main.61fef3aa.chunk.css",
-    "main.js": "/thegoodfeed/static/js/main.d5192881.chunk.js",
-    "main.js.map": "/thegoodfeed/static/js/main.d5192881.chunk.js.map",
+    "main.js": "/thegoodfeed/static/js/main.3ca47288.chunk.js",
+    "main.js.map": "/thegoodfeed/static/js/main.3ca47288.chunk.js.map",
     "runtime-main.js": "/thegoodfeed/static/js/runtime-main.7b2c69cc.js",
     "runtime-main.js.map": "/thegoodfeed/static/js/runtime-main.7b2c69cc.js.map",
     "static/js/2.1827617e.chunk.js": "/thegoodfeed/static/js/2.1827617e.chunk.js",
     "static/js/2.1827617e.chunk.js.map": "/thegoodfeed/static/js/2.1827617e.chunk.js.map",
     "index.html": "/thegoodfeed/index.html",
-    "precache-manifest.bec2747a8c0ffa712d6c83d38a495d14.js": "/thegoodfeed/precache-manifest.bec2747a8c0ffa712d6c83d38a495d14.js",
+    "precache-manifest.cca401e7e6c6d57a2932279574696196.js": "/thegoodfeed/precache-manifest.cca401e7e6c6d57a2932279574696196.js",
     "service-worker.js": "/thegoodfeed/service-worker.js",
     "static/css/main.61fef3aa.chunk.css.map": "/thegoodfeed/static/css/main.61fef3aa.chunk.css.map",
     "static/js/2.1827617e.chunk.js.LICENSE.txt": "/thegoodfeed/static/js/2.1827617e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7b2c69cc.js",
     "static/js/2.1827617e.chunk.js",
     "static/css/main.61fef3aa.chunk.css",
-    "static/js/main.d5192881.chunk.js"
+    "static/js/main.3ca47288.chunk.js"
   ]
 }

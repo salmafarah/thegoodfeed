@@ -23,7 +23,7 @@ class QuestionSection extends Component {
                 <div className="col-12 col-md-6 col-lg-6 justify-content-center d-flex align-items-center text-center">
                 <div className="card h-100 border-0 shadow-lg mt-5 Width">
                       <div className="card-body QuestionBox rounded">
-                        <p className="card-title text-wrap">How Are You Feeling ?</p>
+                        <p className="card-title text-wrap">How Are You Feeling?</p>
                         <div className="row mb-3 mt-4 justify-content-center">
                           <div className="col-5">
                           <Link to='/anxiety'><AnxiteyLottie/></Link>
@@ -38,7 +38,7 @@ class QuestionSection extends Component {
                         <div className="row mb-3 justify-content-center">
                           <div className="col-5">
                           <Link to='/angry'> <AngryLottie/></Link>
-                          <p className="QuestionText"> Anger</p>
+                          <p className="QuestionText"> Angry</p>
                           </div>
                           <div className="col-5">
                           <Link to='/sad'> <SadLottie/></Link>

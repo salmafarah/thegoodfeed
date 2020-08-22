@@ -12,6 +12,7 @@
     "colorette": "^1.2.1",
     "create-react-app": "^3.4.1",
     "node-modules": "^1.0.1",
+    "pkg.json": "^2.0.8",
     "react": "^16.13.1",
     "react-animated-css": "^1.2.1",
     "react-bootstrap": "^1.2.2",
